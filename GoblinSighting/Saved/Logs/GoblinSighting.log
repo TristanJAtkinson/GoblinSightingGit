@@ -11944,3 +11944,238 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.11-13.06.24:896][541]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Asset_Packs/Audio/MS_Footstep.MS_Footstep
 [2024.02.11-13.06.24:896][541]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Asset_Packs/Audio/MS_HitConcrete.MS_HitConcrete
 [2024.02.11-13.06.24:896][541]LogContentValidation: Display: Validating /Script/Engine.SoundAttenuation /Game/Asset_Packs/Audio/SA_Character.SA_Character
+[2024.02.11-13.22.55:641][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-13.22.55:650][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-13.22.55:650][792]PIE: New page: PIE session: House (Feb 11, 2024, 1:22:55 PM)
+[2024.02.11-13.22.55:650][792]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.22.55:662][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012120s)
+[2024.02.11-13.22.55:662][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.012154s)
+[2024.02.11-13.22.55:678][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.02.11-13.22.55:679][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-13.22.55:679][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-13.22.55:680][792]LogAIModule: Creating AISystem for world House
+[2024.02.11-13.22.55:680][792]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2024.02.11-13.22.55:680][792]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-13.22.55:680][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-13.22.55:680][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-13.22.55:681][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-13.22.55:681][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-13.22.55:681][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-13.22.55:683][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-13.22.55:707][792]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.02.11-13.22.55:708][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-13.22.55:708][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-13.22.55:708][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-13.22.55:708][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.02.11-13.22.55:708][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.02.11-13.22.55:710][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.02.11-13.22.55:710][792]LogInit: FAudioDevice initialized with ID 27.
+[2024.02.11-13.22.55:710][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.02.11-13.22.55:710][792]LogAudio: Display: Audio Device (ID: 27) registered with world 'House'.
+[2024.02.11-13.22.55:710][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.02.11-13.22.55:712][792]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.11-13.22.55:715][792]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.02.11-13.22.55
+[2024.02.11-13.22.55:716][792]LogWorld: Bringing up level for play took: 0.003370
+[2024.02.11-13.22.55:718][792]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.02.11-13.22.55:721][792]PIE: Server logged in
+[2024.02.11-13.22.55:721][792]PIE: Play in editor total start time 0.072 seconds.
+[2024.02.11-13.23.03:199][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.23.03:199][536]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.23.03:200][536]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-13.23.03:200][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.23.03:203][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-13.23.03:215][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.23.03:228][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-13.23.03:228][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.02.11-13.23.03:228][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.11-13.23.03:230][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.11-13.23.03:233][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.23.03:238][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.02.11-13.23.03:273][537]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.02.11-13.25.40:483][545]LogEditorTransaction: Undo Create Pin Link
+[2024.02.11-13.25.40:661][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.40:885][546]LogEditorTransaction: Undo Delete current selection
+[2024.02.11-13.25.41:058][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.42:225][660]LogEditorTransaction: Undo Delete current selection
+[2024.02.11-13.25.42:403][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.42:863][690]LogEditorTransaction: Undo Move Node
+[2024.02.11-13.25.43:038][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.43:411][711]LogEditorTransaction: Redo Move Node
+[2024.02.11-13.25.43:585][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.43:780][712]LogEditorTransaction: Redo Delete current selection
+[2024.02.11-13.25.43:956][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.43:959][712]LogEditorTransaction: Redo Delete current selection
+[2024.02.11-13.25.44:102][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.25.44:105][712]LogEditorTransaction: Redo Create Pin Link
+[2024.02.11-13.25.44:249][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.26.49:918][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.11-13.26.49:919][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/Maps/House' took 0.019
+[2024.02.11-13.26.49:920][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Characters/BP_ActionChar_Base] ([2] browsable assets)...
+[2024.02.11-13.26.50:004][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Characters/BP_ActionChar_Base.BP_ActionChar_Base]
+[2024.02.11-13.26.50:004][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Characters/BP_ActionChar_Base]
+[2024.02.11-13.26.50:042][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Characters/BP_ActionChar_Base_Auto7
+[2024.02.11-13.26.50:042][269]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar_Base_Auto7C0FB26DF47C4C4DBEC1F68823C359215.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Characters/BP_ActionChar_Base_Auto7.uasset'
+[2024.02.11-13.26.50:043][269]LogFileHelpers: Auto-saving content packages took 0.124
+[2024.02.11-13.27.05:387][  7]LogEditorTransaction: Undo Move Nodes
+[2024.02.11-13.27.05:560][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.27.52:977][856]LogEditorTransaction: Undo Move Node
+[2024.02.11-13.27.53:149][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.27.54:876][ 28]LogEditorTransaction: Redo Move Node
+[2024.02.11-13.27.55:048][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.28.24:581][463]LogEditorTransaction: Undo Move Nodes
+[2024.02.11-13.28.24:754][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.30.34:006][963]LogEditorTransaction: Undo Move Node
+[2024.02.11-13.30.34:181][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.30.35:545][ 89]LogEditorTransaction: Undo Paste clipboard contents
+[2024.02.11-13.30.35:720][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.30.39:388][493]LogEditorTransaction: Undo Move Nodes
+[2024.02.11-13.30.39:566][493]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.32.32:858][658]LogEditorTransaction: Undo Move Nodes
+[2024.02.11-13.32.33:031][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.32.37:640][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-13.32.37:647][ 85]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.11-13.32.37:650][ 85]LogPlayLevel: [PlayLevel] Compiling ABP_Shooter before play...
+[2024.02.11-13.32.37:650][ 85]LogPlayLevel: [PlayLevel]   Compiling BP_ActionChar_Base as a dependent...
+[2024.02.11-13.32.37:772][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.11-13.32.37:774][ 85]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (2 blueprints)
+[2024.02.11-13.32.37:774][ 85]PIE: New page: PIE session: House (Feb 11, 2024, 1:32:37 PM)
+[2024.02.11-13.32.37:776][ 85]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.32.37:787][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011932s)
+[2024.02.11-13.32.37:788][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.011969s)
+[2024.02.11-13.32.37:802][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.11-13.32.37:803][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-13.32.37:803][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-13.32.37:804][ 85]LogAIModule: Creating AISystem for world House
+[2024.02.11-13.32.37:804][ 85]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2024.02.11-13.32.37:804][ 85]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-13.32.37:804][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-13.32.37:804][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-13.32.37:804][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-13.32.37:804][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-13.32.37:805][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-13.32.37:806][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-13.32.37:831][ 85]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.02.11-13.32.37:831][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-13.32.37:831][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-13.32.37:831][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-13.32.37:832][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.02.11-13.32.37:832][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.02.11-13.32.37:833][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.02.11-13.32.37:833][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.02.11-13.32.37:833][ 85]LogInit: FAudioDevice initialized with ID 28.
+[2024.02.11-13.32.37:833][ 85]LogAudio: Display: Audio Device (ID: 28) registered with world 'House'.
+[2024.02.11-13.32.37:833][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.02.11-13.32.37:866][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.32.37:866][ 85]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.11-13.32.37:869][ 85]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.02.11-13.32.37
+[2024.02.11-13.32.37:870][ 85]LogWorld: Bringing up level for play took: 0.003876
+[2024.02.11-13.32.37:872][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.02.11-13.32.37:876][ 85]PIE: Server logged in
+[2024.02.11-13.32.37:877][ 85]PIE: Play in editor total start time 0.229 seconds.
+[2024.02.11-13.32.38:042][ 85]LogViewport: Scene viewport resized to 2626x1710, mode Windowed.
+[2024.02.11-13.32.38:811][117]LogBlueprintUserMessages: [BTTask_HumanSpotted_C_0] you have been spotted
+[2024.02.11-13.32.41:548][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.32.41:548][273]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.32.41:549][273]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.11-13.32.41:553][273]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-13.32.41:554][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.32.41:556][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-13.32.41:568][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.32.41:584][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.02.11-13.32.41:584][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.02.11-13.32.41:585][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.02.11-13.32.41:593][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.11-13.32.41:625][274]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.02.11-13.32.43:031][393]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-13.32.43:038][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-13.32.43:039][393]PIE: New page: PIE session: House (Feb 11, 2024, 1:32:43 PM)
+[2024.02.11-13.32.43:039][393]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.32.43:050][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011697s)
+[2024.02.11-13.32.43:050][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.011730s)
+[2024.02.11-13.32.43:066][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.11-13.32.43:067][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-13.32.43:067][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-13.32.43:067][393]LogAIModule: Creating AISystem for world House
+[2024.02.11-13.32.43:067][393]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2024.02.11-13.32.43:067][393]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-13.32.43:068][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-13.32.43:068][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-13.32.43:068][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-13.32.43:068][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-13.32.43:068][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-13.32.43:070][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-13.32.43:093][393]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.02.11-13.32.43:093][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-13.32.43:094][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-13.32.43:094][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-13.32.43:094][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.02.11-13.32.43:094][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.02.11-13.32.43:096][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.02.11-13.32.43:096][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.02.11-13.32.43:096][393]LogInit: FAudioDevice initialized with ID 29.
+[2024.02.11-13.32.43:096][393]LogAudio: Display: Audio Device (ID: 29) registered with world 'House'.
+[2024.02.11-13.32.43:096][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.02.11-13.32.43:127][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.32.43:127][393]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.11-13.32.43:130][393]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.02.11-13.32.43
+[2024.02.11-13.32.43:131][393]LogWorld: Bringing up level for play took: 0.003702
+[2024.02.11-13.32.43:133][393]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.02.11-13.32.43:140][393]PIE: Server logged in
+[2024.02.11-13.32.43:143][393]PIE: Play in editor total start time 0.104 seconds.
+[2024.02.11-13.32.43:160][393]LogViewport: Scene viewport resized to 2628x1720, mode Windowed.
+[2024.02.11-13.32.45:633][532]LogViewport: Scene viewport resized to 2560x1347, mode Windowed.
+[2024.02.11-13.33.02:868][588]LogBlueprintUserMessages: [BTTask_HumanSpotted_C_0] you have been spotted
+[2024.02.11-13.33.19:698][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-13.33.19:698][618]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.02.11-13.33.19:699][618]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.11-13.33.19:704][618]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-13.33.19:704][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.33.19:706][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-13.33.19:718][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-13.33.19:733][618]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.02.11-13.33.19:733][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.02.11-13.33.19:735][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.02.11-13.33.19:742][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.02.11-13.33.19:775][619]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.02.11-13.34.02:299][943]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.11-13.34.02:299][943]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.11-13.34.45:263][329]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.11-13.35.21:912][ 18]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.02.11-13.35.21:922][ 18]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-13.36.30:215][773]LogEditorTransaction: Undo Move Node
+[2024.02.11-13.36.30:388][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.36.30:718][778]LogEditorTransaction: Undo Resize Node
+[2024.02.11-13.36.30:894][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.36.32:041][887]LogEditorTransaction: Redo Resize Node
+[2024.02.11-13.36.32:217][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.11-13.36.37:579][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-13.36.37:603][440]LogSavePackage: Moving output files for package: /Game/Asset_Packs/Audio/SA_Character
+[2024.02.11-13.36.37:603][440]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/SA_Character0FD927764E090ABBC63A1F8568CFA8F2.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Audio/SA_Character.uasset'
+[2024.02.11-13.36.37:609][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 18.2 sec)
+[2024.02.11-13.36.37:610][440]AssetCheck: New page: Asset Save: SA_Character
+[2024.02.11-13.36.37:610][440]LogContentValidation: Display: Validating /Script/Engine.SoundAttenuation /Game/Asset_Packs/Audio/SA_Character.SA_Character
+[2024.02.11-13.36.55:352][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.11-13.36.55:357][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-13.36.55:464][156]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar_Base
+[2024.02.11-13.36.55:464][156]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar_Base051571CB45BC886CDCF893AA3BF4FC36.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar_Base.uasset'
+[2024.02.11-13.36.55:471][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 18.3 sec)
+[2024.02.11-13.36.55:472][156]AssetCheck: New page: Asset Save: BP_ActionChar_Base
+[2024.02.11-13.36.55:472][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar_Base.BP_ActionChar_Base
