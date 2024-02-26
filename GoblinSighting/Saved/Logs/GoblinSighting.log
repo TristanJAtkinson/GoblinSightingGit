@@ -4303,3 +4303,30 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.02.26-15.55.38:580][478]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto6 is in the /Temp path, will not scan.
 [2024.02.26-15.55.38:581][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.051
 [2024.02.26-15.55.38:581][478]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2024.02.26-15.56.39:657][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.58.03:051][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.58.13:170][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.59.00:436][332]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.59.07:010][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.59.29:300][ 31]Cmd: DELETE
+[2024.02.26-15.59.29:300][ 31]Cmd: ACTOR DELETE
+[2024.02.26-15.59.29:311][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.26-15.59.29:317][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.26-15.59.29:319][ 31]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.02.26-15.59.30:029][ 69]Cmd: DELETE
+[2024.02.26-15.59.30:029][ 69]Cmd: ACTOR DELETE
+[2024.02.26-15.59.30:031][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.26-15.59.30:034][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.26-15.59.30:038][ 69]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.02.26-15.59.34:988][361]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-15.59.55:511][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-16.00.24:807][311]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-16.00.42:625][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.26-16.00.58:571][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-16.00.58:661][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.26-16.00.58:705][311]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.02.26-16.00.58:706][311]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview18F0BD6FF403D097AACFE38ADA893C1D7.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.02.26-16.00.58:718][311]LogFileHelpers: Saving map 'Overview1' took 0.095
+[2024.02.26-16.00.58:737][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.21 sec)
+[2024.02.26-16.00.58:741][311]AssetCheck: New page: Asset Save: Overview1
+[2024.02.26-16.00.58:741][311]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
