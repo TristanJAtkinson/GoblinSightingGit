@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ACM Student/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar_Base.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Turret/machine_gun/arma.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Enemies/Turret/BP_Turret.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Maps/House.umap",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Turret/machine_gun/MG_turret_portable.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Turret/machine_gun/MG_turret_portable_arma_AlbedoTransparency.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Turret/machine_gun/MG_turret_portable_arma_MetallicSmoothness.uasset",
+				"D:/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Turret/machine_gun/MG_turret_portable_arma_Normal.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
