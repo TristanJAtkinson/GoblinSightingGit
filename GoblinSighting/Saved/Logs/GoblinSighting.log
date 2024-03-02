@@ -1724,3 +1724,110 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-17.58.25:320][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2024.03.02-17.58.25:335][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2024.03.02-17.58.25:425][917]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.03.02-17.59.28:312][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-17.59.28:395][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.02-17.59.28:699][ 33]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.02-17.59.28:702][ 33]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview186AE24794B87DE968D237F902210DCF7.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.02-17.59.28:714][ 33]LogFileHelpers: Saving map 'Overview1' took 0.358
+[2024.03.02-17.59.28:741][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 428 ms (total: 1.70 sec)
+[2024.03.02-17.59.28:744][ 33]AssetCheck: New page: Asset Save: Overview1
+[2024.03.02-17.59.28:744][ 33]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.02-17.59.47:945][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.02-18.00.52:481][938]Cmd: TRANSACTION UNDO
+[2024.03.02-18.00.52:481][938]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.02.15:253][696]Cmd: TRANSACTION UNDO
+[2024.03.02-18.02.15:253][696]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: ================================================
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: Total job queries 121, among them cache hits 25 (20.66%)
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 75 distinct outputs (78.12%)
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: RAM used: 2.25 MiB of 819.20 MiB budget. Usage: 0.27%
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.02-18.04.10:763][343]LogShaderCompilers: Display: ================================================
+[2024.03.02-18.05.27:774][849]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.27:774][849]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.05.28:078][856]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.28:078][856]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.05.28:305][860]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.28:305][860]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.05.29:485][928]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.29:487][928]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.05.29:962][954]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.29:962][954]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.05.30:474][983]Cmd: TRANSACTION UNDO
+[2024.03.02-18.05.30:474][983]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.07.29:112][787]Cmd: TRANSACTION UNDO
+[2024.03.02-18.07.29:112][787]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.07.33:586][ 11]Cmd: TRANSACTION UNDO
+[2024.03.02-18.07.33:586][ 11]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.07.48:484][845]Cmd: TRANSACTION UNDO
+[2024.03.02-18.07.48:484][845]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.12.25:587][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-18.12.25:596][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-18.12.25:596][754]PIE: New page: PIE session: Overview1 (2 Mar 2024, 18:12:25)
+[2024.03.02-18.12.25:596][754]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.02-18.12.25:670][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074010s)
+[2024.03.02-18.12.25:670][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.074052s)
+[2024.03.02-18.12.25:680][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.02-18.12.25:681][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-18.12.25:681][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-18.12.25:682][754]LogAIModule: Creating AISystem for world Overview1
+[2024.03.02-18.12.25:683][754]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2024.03.02-18.12.25:683][754]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.02-18.12.25:683][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-18.12.25:683][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-18.12.25:683][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-18.12.25:683][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-18.12.25:683][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-18.12.25:685][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-18.12.25:707][754]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio Codec with THX Spatial Audio)
+[2024.03.02-18.12.25:707][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-18.12.25:707][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-18.12.25:707][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-18.12.25:708][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.02-18.12.25:708][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.02-18.12.25:710][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.02-18.12.25:710][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.02-18.12.25:711][754]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.02-18.12.25:711][754]LogAudio: Display: Audio Device (ID: 7) registered with world 'Overview1'.
+[2024.03.02-18.12.25:711][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.02-18.12.25:714][754]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.02-18.12.25:756][754]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.02-18.12.25
+[2024.03.02-18.12.25:757][754]LogWorld: Bringing up level for play took: 0.043380
+[2024.03.02-18.12.25:759][754]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.03.02-18.12.25:765][754]PIE: Server logged in
+[2024.03.02-18.12.25:765][754]PIE: Play in editor total start time 0.17 seconds.
+[2024.03.02-18.12.53:403][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-18.12.53:403][323]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.02-18.12.53:403][323]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-18.12.53:408][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-18.12.53:411][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-18.12.53:414][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-18.12.53:428][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-18.12.53:428][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.02-18.12.53:428][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.02-18.12.53:430][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.02-18.12.53:438][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-18.12.53:448][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.02-18.12.53:542][324]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.03.02-18.13.57:563][ 57]Cmd: TRANSACTION UNDO
+[2024.03.02-18.13.57:563][ 57]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.14.40:016][498]Cmd: TRANSACTION UNDO
+[2024.03.02-18.14.40:016][498]LogEditorTransaction: Undo Move Elements
+[2024.03.02-18.17.26:223][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-18.17.26:309][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.02-18.17.26:736][724]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.02-18.17.26:737][724]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1471779D2495B2E307BC9D5AC25BA6B99.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.02-18.17.26:752][724]LogFileHelpers: Saving map 'Overview1' took 0.487
+[2024.03.02-18.17.26:759][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 536 ms (total: 2.23 sec)
+[2024.03.02-18.17.26:766][724]AssetCheck: New page: Asset Save: Overview1
+[2024.03.02-18.17.26:766][724]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
