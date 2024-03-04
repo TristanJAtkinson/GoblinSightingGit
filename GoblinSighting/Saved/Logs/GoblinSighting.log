@@ -2129,3 +2129,1577 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.04-12.04.36:054][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 485 ms (total: 6.23 sec)
 [2024.03.04-12.04.36:061][437]AssetCheck: New page: Asset Save: Overview1
 [2024.03.04-12.04.36:061][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-12.05.15:207][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-12.05.15:214][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-12.05.15:214][208]PIE: New page: PIE session: Overview1 (4 Mar 2024, 12:05:15)
+[2024.03.04-12.05.15:214][208]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-12.05.15:284][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069232s)
+[2024.03.04-12.05.15:284][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.069271s)
+[2024.03.04-12.05.15:299][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.04-12.05.15:301][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-12.05.15:301][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-12.05.15:301][208]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-12.05.15:302][208]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2024.03.04-12.05.15:302][208]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-12.05.15:302][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-12.05.15:302][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-12.05.15:303][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-12.05.15:303][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-12.05.15:303][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-12.05.15:305][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-12.05.15:324][208]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-12.05.15:324][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-12.05.15:324][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-12.05.15:325][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-12.05.15:325][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.04-12.05.15:325][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.04-12.05.15:327][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.04-12.05.15:327][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.04-12.05.15:327][208]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.04-12.05.15:327][208]LogAudio: Display: Audio Device (ID: 7) registered with world 'Overview1'.
+[2024.03.04-12.05.15:327][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.04-12.05.15:329][208]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-12.05.15:363][208]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-12.05.15
+[2024.03.04-12.05.15:363][208]LogWorld: Bringing up level for play took: 0.033362
+[2024.03.04-12.05.15:365][208]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.03.04-12.05.15:370][208]PIE: Server logged in
+[2024.03.04-12.05.15:371][208]PIE: Play in editor total start time 0.157 seconds.
+[2024.03.04-12.05.53:134][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-12.05.53:135][461]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-12.05.53:135][461]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-12.05.53:140][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-12.05.53:143][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-12.05.53:146][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-12.05.53:164][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-12.05.53:168][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.04-12.05.53:168][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.04-12.05.53:173][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.04-12.05.53:187][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.04-12.05.53:227][462]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.03.04-12.07.04:938][ 98]Cmd: DELETE
+[2024.03.04-12.07.04:939][ 98]Cmd: ACTOR DELETE
+[2024.03.04-12.07.04:951][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.07.04:971][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.04-12.07.04:977][ 98]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.03.04-12.07.57:182][850]Cmd: TRANSACTION UNDO
+[2024.03.04-12.07.57:182][850]LogEditorTransaction: Undo Move Elements
+[2024.03.04-12.08.01:062][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-12.08.01:167][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.04-12.08.01:525][ 43]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-12.08.01:526][ 43]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1CA6B5AFC4844F70B56A9E8A194C120DD.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-12.08.01:538][ 43]LogFileHelpers: Saving map 'Overview1' took 0.422
+[2024.03.04-12.08.01:541][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 480 ms (total: 6.71 sec)
+[2024.03.04-12.08.01:548][ 43]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-12.08.01:548][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-12.08.32:035][759]Cmd: DELETE
+[2024.03.04-12.08.32:035][759]Cmd: ACTOR DELETE
+[2024.03.04-12.08.32:048][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.08.32:068][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.04-12.08.32:073][759]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.03.04-12.08.32:865][803]Cmd: DELETE
+[2024.03.04-12.08.32:865][803]Cmd: ACTOR DELETE
+[2024.03.04-12.08.32:878][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.08.32:896][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.04-12.08.32:900][803]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.03.04-12.08.33:471][830]Cmd: DELETE
+[2024.03.04-12.08.33:471][830]Cmd: ACTOR DELETE
+[2024.03.04-12.08.33:485][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.08.33:505][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.04-12.08.33:509][830]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.03.04-12.09.24:310][742]Cmd: DELETE
+[2024.03.04-12.09.24:310][742]Cmd: ACTOR DELETE
+[2024.03.04-12.09.24:323][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.09.24:344][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.04-12.09.24:352][742]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.03.04-12.09.46:198][  0]Cmd: DELETE
+[2024.03.04-12.09.46:199][  0]Cmd: ACTOR DELETE
+[2024.03.04-12.09.46:199][  0]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.03.04-12.09.46:210][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-12.09.46:228][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.04-12.09.46:232][  0]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.03.04-12.10.44:782][391]Cmd: TRANSACTION UNDO
+[2024.03.04-12.10.44:782][391]LogEditorTransaction: Undo Move Elements
+[2024.03.04-12.10.54:424][925]Cmd: TRANSACTION UNDO
+[2024.03.04-12.10.54:424][925]LogEditorTransaction: Undo Move Elements
+[2024.03.04-12.10.55:109][940]Cmd: TRANSACTION UNDO
+[2024.03.04-12.10.55:109][940]LogEditorTransaction: Undo Move Elements
+[2024.03.04-12.10.56:320][998]Cmd: TRANSACTION UNDO
+[2024.03.04-12.10.56:320][998]LogEditorTransaction: Undo Set Scale
+[2024.03.04-12.12.12:629][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-12.12.12:707][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.04-12.12.13:046][396]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-12.12.13:047][396]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1B19C7E3E43E4A8838894F68904DF2A1F.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-12.12.13:064][396]LogFileHelpers: Saving map 'Overview1' took 0.404
+[2024.03.04-12.12.13:069][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 439 ms (total: 7.15 sec)
+[2024.03.04-12.12.13:074][396]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-12.12.13:074][396]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-12.13.15:431][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-12.13.15:553][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.04-12.13.15:887][107]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-12.13.15:888][107]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview110667DA34A16E4F4D20E2B958876C397.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-12.13.15:901][107]LogFileHelpers: Saving map 'Overview1' took 0.407
+[2024.03.04-12.13.15:906][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 476 ms (total: 7.62 sec)
+[2024.03.04-12.13.15:913][107]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-12.13.15:913][107]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-12.13.17:690][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-12.13.17:697][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-12.13.17:698][203]PIE: New page: PIE session: Overview1 (4 Mar 2024, 12:13:17)
+[2024.03.04-12.13.17:698][203]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-12.13.17:776][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078064s)
+[2024.03.04-12.13.17:776][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.078110s)
+[2024.03.04-12.13.17:797][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.04-12.13.17:798][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-12.13.17:799][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-12.13.17:799][203]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-12.13.17:800][203]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2024.03.04-12.13.17:800][203]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-12.13.17:800][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-12.13.17:800][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-12.13.17:800][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-12.13.17:800][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-12.13.17:800][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-12.13.17:802][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-12.13.17:823][203]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-12.13.17:823][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-12.13.17:823][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-12.13.17:823][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-12.13.17:824][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.04-12.13.17:824][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.04-12.13.17:827][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.04-12.13.17:827][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.04-12.13.17:827][203]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.04-12.13.17:827][203]LogAudio: Display: Audio Device (ID: 8) registered with world 'Overview1'.
+[2024.03.04-12.13.17:827][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.04-12.13.17:830][203]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-12.13.17:866][203]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-12.13.17
+[2024.03.04-12.13.17:867][203]LogWorld: Bringing up level for play took: 0.037531
+[2024.03.04-12.13.17:870][203]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.03.04-12.13.17:874][203]PIE: Server logged in
+[2024.03.04-12.13.17:875][203]PIE: Play in editor total start time 0.177 seconds.
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: ================================================
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Total job queries 217, among them cache hits 93 (42.86%)
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 96 distinct outputs (77.42%)
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: RAM used: 2.86 MiB of 819.20 MiB budget. Usage: 0.35%
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Average time worker was idle: 56.00 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.82 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.36 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.40
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Shader code size: average 37.366 KiB, min 28.734 KiB, max 57.102 KiB
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.40 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Total thread time: 9.561 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Total thread preprocess time: 2.499 s
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Percentage time preprocessing: 26.14%
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-12.13.22:987][498]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.42 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.96% of total time (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.61% of total time (compiled    4 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.73% of total time (compiled    3 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.25% of total time (compiled    3 times, average 0.42 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.02% of total time (compiled    4 times, average 0.24 sec, max 0.46 sec, min 0.11 sec)
+[2024.03.04-12.13.22:988][498]LogShaderCompilers: Display: ================================================
+[2024.03.04-12.13.45:864][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-12.13.45:864][803]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-12.13.45:865][803]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-12.13.45:871][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-12.13.45:874][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-12.13.45:877][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-12.13.45:898][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-12.13.45:903][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.04-12.13.45:903][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.04-12.13.45:905][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.04-12.13.45:921][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.04-12.13.46:001][804]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.04-12.14.16:925][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-12.14.35:790][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-12.14.53:104][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-12.14.53:186][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.04-12.14.53:528][678]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-12.14.53:530][678]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1C0C1C2FE458494AA06BBF3B8B986C43C.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-12.14.53:551][678]LogFileHelpers: Saving map 'Overview1' took 0.410
+[2024.03.04-12.14.53:558][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 453 ms (total: 8.08 sec)
+[2024.03.04-12.14.53:567][678]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-12.14.53:568][678]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-12.15.48:494][974]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio Codec with THX Spatial Audio), InstanceID=1
+[2024.03.04-12.15.48:498][974]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25500
+[2024.03.04-12.15.48:768][990]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{83e4994e-ba52-4789-887d-1da9b00a6a06}, Name=Speakers (Realtek(R) Audio Codec with THX Spatial Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=261.93
+[2024.03.04-12.15.48:769][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.04-12.15.48:771][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.04-12.41.06:652][ 11]LogDerivedDataCache: C:/Users/mrmad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.206 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3836 files in 5412 folders with total size 390 MiB.
+[2024.03.04-12.46.52:846][782]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.03.04-13.06.29:992][359]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT), InstanceID=1
+[2024.03.04-13.06.29:993][359]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25500
+[2024.03.04-13.06.30:061][363]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b41a1c3e-faff-4eb7-8c9f-302b6747c6ed}, Name=Headphones (JBL TUNE720BT)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=55.35
+[2024.03.04-13.06.30:061][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.04-13.06.30:064][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.04-13.06.33:746][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.06.33:871][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.04-13.06.34:199][577]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.06.34:200][577]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview19EE3FBE14D3E801A5F611A839DEC4276.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.06.34:219][577]LogFileHelpers: Saving map 'Overview1' took 0.409
+[2024.03.04-13.06.34:228][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 482 ms (total: 8.56 sec)
+[2024.03.04-13.06.34:235][577]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.06.34:235][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-13.10.49:538][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-13.10.49:545][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-13.10.49:545][873]PIE: New page: PIE session: Overview1 (4 Mar 2024, 13:10:49)
+[2024.03.04-13.10.49:546][873]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.10.49:632][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086024s)
+[2024.03.04-13.10.49:632][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.086075s)
+[2024.03.04-13.10.49:650][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.04-13.10.49:655][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-13.10.49:655][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-13.10.49:655][873]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-13.10.49:656][873]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2024.03.04-13.10.49:656][873]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-13.10.49:656][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-13.10.49:656][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-13.10.49:657][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-13.10.49:657][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-13.10.49:657][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-13.10.49:658][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-13.10.49:677][873]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-13.10.49:679][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-13.10.49:679][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-13.10.49:679][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-13.10.49:679][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.04-13.10.49:679][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.04-13.10.49:682][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.04-13.10.49:682][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.04-13.10.49:682][873]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.04-13.10.49:682][873]LogAudio: Display: Audio Device (ID: 9) registered with world 'Overview1'.
+[2024.03.04-13.10.49:682][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.04-13.10.49:685][873]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-13.10.49:721][873]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-13.10.49
+[2024.03.04-13.10.49:721][873]LogWorld: Bringing up level for play took: 0.036165
+[2024.03.04-13.10.49:724][873]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.03.04-13.10.49:728][873]PIE: Server logged in
+[2024.03.04-13.10.49:729][873]PIE: Play in editor total start time 0.184 seconds.
+[2024.03.04-13.11.24:179][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.11.24:179][928]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.11.24:181][928]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-13.11.24:186][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.11.24:191][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-13.11.24:194][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.11.24:216][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.11.24:222][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.04-13.11.24:222][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.04-13.11.24:225][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.04-13.11.24:240][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.04-13.11.24:323][929]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.03.04-13.11.25:740][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.11.25:833][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.04-13.11.26:141][ 10]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.11.26:142][ 10]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview198ED334049BC0AF0BE312685149027A4.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.11.26:155][ 10]LogFileHelpers: Saving map 'Overview1' took 0.364
+[2024.03.04-13.11.26:160][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 421 ms (total: 8.98 sec)
+[2024.03.04-13.11.26:166][ 10]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.11.26:167][ 10]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-13.16.11:254][275]Cmd: TRANSACTION UNDO
+[2024.03.04-13.16.11:254][275]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.24.28:622][236]Cmd: TRANSACTION UNDO
+[2024.03.04-13.24.28:622][236]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.24.29:015][238]Cmd: TRANSACTION UNDO
+[2024.03.04-13.24.29:015][238]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.24.29:665][253]Cmd: TRANSACTION UNDO
+[2024.03.04-13.24.29:665][253]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.24.30:428][279]Cmd: TRANSACTION UNDO
+[2024.03.04-13.24.30:428][279]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.24.31:242][312]Cmd: TRANSACTION UNDO
+[2024.03.04-13.24.31:242][312]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.24.38:269][703]Cmd: DELETE
+[2024.03.04-13.24.38:269][703]Cmd: ACTOR DELETE
+[2024.03.04-13.24.38:282][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.24.38:306][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.04-13.24.38:318][703]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.03.04-13.24.38:741][724]Cmd: DELETE
+[2024.03.04-13.24.38:741][724]Cmd: ACTOR DELETE
+[2024.03.04-13.24.38:754][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.24.38:772][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.04-13.24.38:775][724]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Total job queries 223, among them cache hits 95 (42.60%)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Tracking 127 distinct input hashes that result in 97 distinct outputs (76.38%)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: RAM used: 2.92 MiB of 819.20 MiB budget. Usage: 0.36%
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Shaders Compiled: 21
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Jobs assigned 22, completed 21 (95.45%)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Average time worker was idle: 1432.15 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.82 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.36 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.40
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Shader code size: average 37.334 KiB, min 28.734 KiB, max 57.102 KiB
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.42 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Average processing rate: 3.87 jobs/sec
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Total thread time: 10.067 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Total thread preprocess time: 2.871 s
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Percentage time preprocessing: 28.52%
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.42 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.40% of total time (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.72% of total time (compiled    4 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.89% of total time (compiled    3 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-13.25.41:878][442]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.54% of total time (compiled    5 times, average 0.29 sec, max 0.51 sec, min 0.11 sec)
+[2024.03.04-13.25.41:879][442]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.58% of total time (compiled    3 times, average 0.42 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-13.25.41:879][442]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.26.52:691][490]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.52:691][490]LogEditorTransaction: Undo Edit Refresh Material
+[2024.03.04-13.26.53:330][501]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.53:330][501]LogEditorTransaction: Undo Edit Refresh Material
+[2024.03.04-13.26.54:057][531]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.54:057][531]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.26.55:388][591]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.55:388][591]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.26.58:149][738]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.58:150][738]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.26.58:831][750]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.58:831][750]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.26.59:279][761]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.59:280][761]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.26.59:764][772]Cmd: TRANSACTION UNDO
+[2024.03.04-13.26.59:765][772]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.00:313][785]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.00:313][785]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.27.00:885][801]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.00:885][801]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.01:538][824]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.01:538][824]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.02:050][837]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.02:050][837]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.02:826][864]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.02:826][864]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.27.18:146][709]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.18:146][709]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.18:747][717]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.18:748][717]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.19:757][759]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.19:757][759]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.31:340][411]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.31:340][411]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.32:640][458]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.32:640][458]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.27.33:467][491]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.33:468][491]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.27.35:314][576]Cmd: TRANSACTION UNDO
+[2024.03.04-13.27.35:314][576]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.28.05:339][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.04-13.28.05:675][316]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3
+[2024.03.04-13.28.05:675][316]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto3A5B6856A4224E2E3D342CBB186F0A6F1.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3.umap'
+[2024.03.04-13.28.05:678][316]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.04-13.28.05:678][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.359
+[2024.03.04-13.28.05:678][316]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.359
+[2024.03.04-13.28.12:131][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.28.12:229][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.04-13.28.12:571][693]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.28.12:572][693]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1460EDEAD47EAF15EC1DB03ABB8E1A6F4.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.28.12:587][693]LogFileHelpers: Saving map 'Overview1' took 0.407
+[2024.03.04-13.28.12:623][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 492 ms (total: 9.47 sec)
+[2024.03.04-13.28.12:630][693]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.28.12:630][693]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-13.29.24:505][879]Cmd: TRANSACTION UNDO
+[2024.03.04-13.29.24:505][879]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Total job queries 246, among them cache hits 103 (41.87%)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Tracking 139 distinct input hashes that result in 104 distinct outputs (74.82%)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: RAM used: 3.20 MiB of 819.20 MiB budget. Usage: 0.39%
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Shaders Compiled: 32
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Jobs assigned 36, completed 32 (88.89%)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Average time worker was idle: 2495.47 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.82 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 1.36 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 1.40
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Shader code size: average 39.37 KiB, min 28.582 KiB, max 85.023 KiB
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.77 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Average processing rate: 4.12 jobs/sec
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Total thread time: 14.587 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Total thread preprocess time: 4.204 s
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Percentage time preprocessing: 28.82%
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.80 sec, max 0.83 sec, min 0.77 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.29% of total time (compiled    4 times, average 0.74 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.44% of total time (compiled    6 times, average 0.42 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.45% of total time (compiled    4 times, average 0.53 sec, max 0.62 sec, min 0.48 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.27% of total time (compiled    7 times, average 0.28 sec, max 0.51 sec, min 0.11 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.96% of total time (compiled    2 times, average 0.80 sec, max 0.83 sec, min 0.77 sec)
+[2024.03.04-13.30.13:876][625]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.30.25:454][261]Cmd: TRANSACTION UNDO
+[2024.03.04-13.30.25:454][261]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.30.26:256][280]Cmd: TRANSACTION UNDO
+[2024.03.04-13.30.26:256][280]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.30.27:265][321]Cmd: TRANSACTION UNDO
+[2024.03.04-13.30.27:265][321]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.31.40:528][595]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.40:529][595]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.41:012][597]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.41:012][597]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.41:713][618]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.41:713][618]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.42:379][640]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.42:379][640]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.04-13.31.43:031][662]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.43:031][662]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.04-13.31.43:398][666]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.43:399][666]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.04-13.31.44:111][691]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.44:111][691]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.04-13.31.44:342][691]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.44:342][691]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.31.56:386][334]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.56:386][334]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.56:740][335]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.56:741][335]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.57:096][336]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.57:096][336]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-13.31.57:498][341]Cmd: TRANSACTION UNDO
+[2024.03.04-13.31.57:498][341]LogEditorTransaction: Undo Replace component used material
+[2024.03.04-13.34.58:853][821]Cmd: DELETE
+[2024.03.04-13.34.58:853][821]Cmd: ACTOR DELETE
+[2024.03.04-13.34.58:866][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.34.58:894][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.04-13.34.58:915][821]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.03.04-13.35.06:888][294]Cmd: TRANSACTION UNDO
+[2024.03.04-13.35.06:888][294]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.35.10:985][512]Cmd: TRANSACTION UNDO
+[2024.03.04-13.35.10:985][512]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.35.22:676][171]Cmd: TRANSACTION UNDO
+[2024.03.04-13.35.22:676][171]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.36.49:808][236]Cmd: TRANSACTION UNDO
+[2024.03.04-13.36.49:808][236]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.38.10:944][951]Cmd: DELETE
+[2024.03.04-13.38.10:944][951]Cmd: ACTOR DELETE
+[2024.03.04-13.38.10:957][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.38.10:978][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.04-13.38.10:991][951]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2024.03.04-13.38.19:202][437]Cmd: TRANSACTION UNDO
+[2024.03.04-13.38.19:202][437]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.38.29:139][992]Cmd: TRANSACTION UNDO
+[2024.03.04-13.38.29:139][992]LogEditorTransaction: Undo Rotate Elements
+[2024.03.04-13.38.41:517][703]Cmd: TRANSACTION UNDO
+[2024.03.04-13.38.41:517][703]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.41.07:606][306]LogDerivedDataCache: C:/Users/mrmad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.159 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3859 files in 5434 folders with total size 391 MiB.
+[2024.03.04-13.41.15:834][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.04-13.41.16:160][794]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto4
+[2024.03.04-13.41.16:161][794]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto4B814DB1B439743633CA866A779DD0B70.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto4.umap'
+[2024.03.04-13.41.16:163][794]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto4.umap is in the /Temp path, will not scan.
+[2024.03.04-13.41.16:164][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.353
+[2024.03.04-13.41.16:164][794]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.353
+[2024.03.04-13.41.19:454][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.41.19:554][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.04-13.41.19:880][986]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.41.19:882][986]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview19F6B022142FF635EDCAE20B1708D22E8.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.41.19:896][986]LogFileHelpers: Saving map 'Overview1' took 0.389
+[2024.03.04-13.41.19:905][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 9.92 sec)
+[2024.03.04-13.41.19:910][986]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.41.19:910][986]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-13.41.33:736][797]Cmd: DELETE
+[2024.03.04-13.41.33:736][797]Cmd: ACTOR DELETE
+[2024.03.04-13.41.33:749][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.41.33:769][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.04-13.41.33:774][797]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.03.04-13.42.02:298][472]Cmd: DELETE
+[2024.03.04-13.42.02:298][472]Cmd: ACTOR DELETE
+[2024.03.04-13.42.02:310][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.42.02:310][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.42.02:337][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.04-13.42.02:343][472]LogEditorActor: Deleted 2 Actors (0.044 secs)
+[2024.03.04-13.43.18:431][966]Cmd: TRANSACTION UNDO
+[2024.03.04-13.43.18:431][966]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.44.09:121][895]Cmd: TRANSACTION UNDO
+[2024.03.04-13.44.09:121][895]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.45.00:119][832]Cmd: DELETE
+[2024.03.04-13.45.00:119][832]Cmd: ACTOR DELETE
+[2024.03.04-13.45.00:132][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.45.00:159][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.04-13.45.00:172][832]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2024.03.04-13.45.01:099][883]Cmd: DELETE
+[2024.03.04-13.45.01:099][883]Cmd: ACTOR DELETE
+[2024.03.04-13.45.01:112][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.45.01:133][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.04-13.45.01:137][883]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.03.04-13.45.10:463][426]Cmd: TRANSACTION UNDO
+[2024.03.04-13.45.10:463][426]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.45.12:713][533]Cmd: TRANSACTION UNDO
+[2024.03.04-13.45.12:713][533]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.45.33:746][767]Cmd: TRANSACTION UNDO
+[2024.03.04-13.45.33:746][767]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.47.02:340][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.47.02:457][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.04-13.47.02:795][972]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.47.02:796][972]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1740316334E3B56741A7339BD1A2875D2.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.47.02:811][972]LogFileHelpers: Saving map 'Overview1' took 0.408
+[2024.03.04-13.47.02:844][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 504 ms (total: 10.4 sec)
+[2024.03.04-13.47.02:851][972]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.47.02:851][972]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-13.47.03:530][ 11]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-13.47.03:537][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-13.47.03:537][ 11]PIE: New page: PIE session: Overview1 (4 Mar 2024, 13:47:03)
+[2024.03.04-13.47.03:537][ 11]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.47.03:611][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073455s)
+[2024.03.04-13.47.03:611][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.073492s)
+[2024.03.04-13.47.03:633][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.04-13.47.03:635][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-13.47.03:635][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-13.47.03:635][ 11]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-13.47.03:636][ 11]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2024.03.04-13.47.03:636][ 11]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-13.47.03:636][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-13.47.03:636][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-13.47.03:637][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-13.47.03:637][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-13.47.03:637][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-13.47.03:640][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-13.47.03:659][ 11]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-13.47.03:660][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-13.47.03:660][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-13.47.03:660][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-13.47.03:661][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.04-13.47.03:661][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.04-13.47.03:663][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.04-13.47.03:663][ 11]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.04-13.47.03:663][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.04-13.47.03:663][ 11]LogAudio: Display: Audio Device (ID: 10) registered with world 'Overview1'.
+[2024.03.04-13.47.03:663][ 11]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.04-13.47.03:666][ 11]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-13.47.03:702][ 11]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-13.47.03
+[2024.03.04-13.47.03:703][ 11]LogWorld: Bringing up level for play took: 0.036463
+[2024.03.04-13.47.03:706][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.04-13.47.03:711][ 11]PIE: Server logged in
+[2024.03.04-13.47.03:712][ 11]PIE: Play in editor total start time 0.176 seconds.
+[2024.03.04-13.47.36:303][955]Set new viewmode: Wireframe
+[2024.03.04-13.47.38:135][ 65]Set new viewmode: Wireframe
+[2024.03.04-13.47.39:086][122]Set new viewmode: Wireframe
+[2024.03.04-13.47.40:519][208]Set new viewmode: Wireframe
+[2024.03.04-13.47.40:952][234]Set new viewmode: Wireframe
+[2024.03.04-13.47.43:489][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.47.43:489][384]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.47.43:491][384]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-13.47.43:496][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.47.43:500][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-13.47.43:504][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.47.43:534][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-13.47.43:534][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.04-13.47.43:534][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.04-13.47.43:536][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.04-13.47.43:540][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.47.43:552][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.04-13.47.43:616][385]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.04-13.47.47:562][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-13.47.47:569][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-13.47.47:569][613]PIE: New page: PIE session: Overview1 (4 Mar 2024, 13:47:47)
+[2024.03.04-13.47.47:569][613]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.47.47:646][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075974s)
+[2024.03.04-13.47.47:646][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.076063s)
+[2024.03.04-13.47.47:668][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.04-13.47.47:672][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-13.47.47:672][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-13.47.47:673][613]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-13.47.47:673][613]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2024.03.04-13.47.47:674][613]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-13.47.47:674][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-13.47.47:674][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-13.47.47:674][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-13.47.47:674][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-13.47.47:674][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-13.47.47:676][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-13.47.47:695][613]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-13.47.47:695][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-13.47.47:695][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-13.47.47:695][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-13.47.47:695][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.04-13.47.47:695][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.04-13.47.47:698][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.04-13.47.47:698][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.04-13.47.47:698][613]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.04-13.47.47:698][613]LogAudio: Display: Audio Device (ID: 11) registered with world 'Overview1'.
+[2024.03.04-13.47.47:698][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.04-13.47.47:700][613]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-13.47.47:735][613]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-13.47.47
+[2024.03.04-13.47.47:736][613]LogWorld: Bringing up level for play took: 0.035171
+[2024.03.04-13.47.47:739][613]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.04-13.47.47:743][613]PIE: Server logged in
+[2024.03.04-13.47.47:743][613]PIE: Play in editor total start time 0.174 seconds.
+[2024.03.04-13.47.50:959][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.47.50:960][792]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.47.50:960][792]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-13.47.50:965][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.47.50:970][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-13.47.50:973][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.47.51:003][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.47.51:007][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.04-13.47.51:008][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.04-13.47.51:010][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.04-13.47.51:024][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.04-13.47.51:090][793]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.04-13.48.38:249][580]Cmd: TRANSACTION UNDO
+[2024.03.04-13.48.38:249][580]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.49.07:083][246]Cmd: TRANSACTION UNDO
+[2024.03.04-13.49.07:083][246]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.51.54:378][609]Cmd: DELETE
+[2024.03.04-13.51.54:378][609]Cmd: ACTOR DELETE
+[2024.03.04-13.51.54:391][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.51.54:424][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.04-13.51.54:444][609]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2024.03.04-13.53.02:515][602]Cmd: TRANSACTION UNDO
+[2024.03.04-13.53.02:515][602]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.53.02:963][606]Cmd: TRANSACTION UNDO
+[2024.03.04-13.53.02:963][606]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.54.22:399][237]Cmd: DELETE
+[2024.03.04-13.54.22:399][237]Cmd: ACTOR DELETE
+[2024.03.04-13.54.22:413][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-13.54.22:439][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.04-13.54.22:447][237]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.03.04-13.54.30:507][704]Cmd: TRANSACTION UNDO
+[2024.03.04-13.54.30:507][704]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.54.32:123][772]Cmd: TRANSACTION UNDO
+[2024.03.04-13.54.32:123][772]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.54.33:489][838]Cmd: TRANSACTION UNDO
+[2024.03.04-13.54.33:489][838]LogEditorTransaction: Undo Set Scale
+[2024.03.04-13.55.19:638][493]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Total job queries 257, among them cache hits 103 (40.08%)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 111 distinct outputs (74.00%)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: RAM used: 3.45 MiB of 819.20 MiB budget. Usage: 0.42%
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Shaders Compiled: 43
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Jobs assigned 47, completed 43 (91.49%)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Average time worker was idle: 1984.52 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.82 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.36 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Job life time (pending + execution): average 0.77 s, max 1.40
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Shader code size: average 39.331 KiB, min 28.582 KiB, max 85.023 KiB
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.96 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Average processing rate: 4.32 jobs/sec
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Total thread time: 18.841 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Total thread preprocess time: 4.559 s
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Percentage time preprocessing: 24.20%
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Effective parallelization: 1.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.72 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.71 sec, max 0.83 sec, min 0.54 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.46 sec, max 0.62 sec, min 0.31 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.40 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.93% of total time (compiled    6 times, average 0.72 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.91% of total time (compiled    8 times, average 0.40 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.58% of total time (compiled    6 times, average 0.46 sec, max 0.62 sec, min 0.31 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.99% of total time (compiled    9 times, average 0.25 sec, max 0.51 sec, min 0.11 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.35% of total time (compiled    3 times, average 0.71 sec, max 0.83 sec, min 0.54 sec)
+[2024.03.04-13.55.19:639][493]LogShaderCompilers: Display: ================================================
+[2024.03.04-13.56.58:703][227]Cmd: TRANSACTION UNDO
+[2024.03.04-13.56.58:703][227]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.56.59:129][230]Cmd: TRANSACTION UNDO
+[2024.03.04-13.56.59:129][230]LogEditorTransaction: Undo Move Elements
+[2024.03.04-13.57.36:959][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-13.57.36:967][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-13.57.36:967][472]PIE: New page: PIE session: Overview1 (4 Mar 2024, 13:57:36)
+[2024.03.04-13.57.36:967][472]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.57.37:044][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077066s)
+[2024.03.04-13.57.37:044][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.077107s)
+[2024.03.04-13.57.37:072][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.04-13.57.37:088][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-13.57.37:089][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-13.57.37:089][472]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-13.57.37:090][472]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2024.03.04-13.57.37:090][472]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-13.57.37:090][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-13.57.37:090][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-13.57.37:090][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-13.57.37:090][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-13.57.37:090][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-13.57.37:092][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-13.57.37:112][472]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-13.57.37:112][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-13.57.37:112][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-13.57.37:112][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-13.57.37:113][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.04-13.57.37:113][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.04-13.57.37:114][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.04-13.57.37:114][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.04-13.57.37:114][472]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.04-13.57.37:114][472]LogAudio: Display: Audio Device (ID: 12) registered with world 'Overview1'.
+[2024.03.04-13.57.37:114][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.04-13.57.37:117][472]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-13.57.37:154][472]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-13.57.37
+[2024.03.04-13.57.37:155][472]LogWorld: Bringing up level for play took: 0.037556
+[2024.03.04-13.57.37:158][472]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.03.04-13.57.37:163][472]PIE: Server logged in
+[2024.03.04-13.57.37:164][472]PIE: Play in editor total start time 0.197 seconds.
+[2024.03.04-13.57.58:409][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.57.58:409][732]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-13.57.58:410][732]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-13.57.58:415][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.57.58:418][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-13.57.58:421][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-13.57.58:457][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-13.57.58:457][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.04-13.57.58:457][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.04-13.57.58:459][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.04-13.57.58:465][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-13.57.58:476][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.04-13.57.58:543][733]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.03.04-13.57.59:682][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-13.57.59:794][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.04-13.58.00:139][796]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-13.58.00:141][796]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1E3CBB6CB47134D99065C61B2B4A04D21.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-13.58.00:157][796]LogFileHelpers: Saving map 'Overview1' took 0.412
+[2024.03.04-13.58.00:163][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 480 ms (total: 10.9 sec)
+[2024.03.04-13.58.00:168][796]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-13.58.00:168][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.11.01:599][545]Cmd: TRANSACTION UNDO
+[2024.03.04-14.11.01:599][545]LogEditorTransaction: Undo Set Location
+[2024.03.04-14.11.03:176][612]Cmd: TRANSACTION UNDO
+[2024.03.04-14.11.03:176][612]LogEditorTransaction: Undo Set Rotation
+[2024.03.04-14.11.05:530][738]Cmd: TRANSACTION UNDO
+[2024.03.04-14.11.05:530][738]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.11.07:044][801]Cmd: TRANSACTION UNDO
+[2024.03.04-14.11.07:044][801]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.12.43:711][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.12.43:724][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.12.43:724][325]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:12:43)
+[2024.03.04-14.12.43:724][325]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.12.43:819][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094627s)
+[2024.03.04-14.12.43:819][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.094681s)
+[2024.03.04-14.12.43:845][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.04-14.12.43:857][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.12.43:857][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.12.43:858][325]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.12.43:858][325]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2024.03.04-14.12.43:859][325]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.12.43:859][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.12.43:859][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.12.43:860][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.12.43:860][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.12.43:860][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.12.43:863][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.12.43:884][325]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.12.43:884][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.12.43:884][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.12.43:884][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.12.43:885][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.04-14.12.43:885][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.04-14.12.43:888][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.04-14.12.43:888][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.04-14.12.43:888][325]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.04-14.12.43:888][325]LogAudio: Display: Audio Device (ID: 13) registered with world 'Overview1'.
+[2024.03.04-14.12.43:888][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.04-14.12.43:890][325]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.12.43:934][325]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.12.43
+[2024.03.04-14.12.43:935][325]LogWorld: Bringing up level for play took: 0.044176
+[2024.03.04-14.12.43:938][325]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.03.04-14.12.43:947][325]PIE: Server logged in
+[2024.03.04-14.12.43:948][325]PIE: Play in editor total start time 0.224 seconds.
+[2024.03.04-14.13.06:540][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.13.06:540][666]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.13.06:541][666]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.13.06:546][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.13.06:549][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.13.06:552][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.13.06:580][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.13.06:585][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.04-14.13.06:586][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.04-14.13.06:587][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.04-14.13.06:603][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.04-14.13.06:668][667]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.03.04-14.13.58:429][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.13.58:436][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.13.58:436][701]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:13:58)
+[2024.03.04-14.13.58:436][701]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.13.58:510][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073826s)
+[2024.03.04-14.13.58:510][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.073861s)
+[2024.03.04-14.13.58:537][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.04-14.13.58:540][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.13.58:540][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.13.58:540][701]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.13.58:542][701]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2024.03.04-14.13.58:542][701]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.13.58:542][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.13.58:542][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.13.58:542][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.13.58:542][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.13.58:542][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.13.58:544][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.13.58:563][701]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.13.58:563][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.13.58:563][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.13.58:563][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.13.58:564][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.04-14.13.58:564][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.04-14.13.58:565][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.04-14.13.58:565][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.04-14.13.58:565][701]LogInit: FAudioDevice initialized with ID 14.
+[2024.03.04-14.13.58:565][701]LogAudio: Display: Audio Device (ID: 14) registered with world 'Overview1'.
+[2024.03.04-14.13.58:565][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.04-14.13.58:568][701]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.13.58:605][701]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.13.58
+[2024.03.04-14.13.58:605][701]LogWorld: Bringing up level for play took: 0.037258
+[2024.03.04-14.13.58:608][701]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.03.04-14.13.58:613][701]PIE: Server logged in
+[2024.03.04-14.13.58:614][701]PIE: Play in editor total start time 0.178 seconds.
+[2024.03.04-14.14.15:630][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.14.15:630][708]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.14.15:631][708]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.14.15:636][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.14.15:639][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.14.15:642][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.14.15:670][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.14.15:675][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.04-14.14.15:675][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.04-14.14.15:677][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.04-14.14.15:692][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.04-14.14.15:777][709]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.03.04-14.14.22:354][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.14.22:455][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.04-14.14.22:795][ 93]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.14.22:796][ 93]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1C405C26445CE011519EFA1B479A42160.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.14.22:810][ 93]LogFileHelpers: Saving map 'Overview1' took 0.409
+[2024.03.04-14.14.22:843][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 488 ms (total: 11.4 sec)
+[2024.03.04-14.14.22:849][ 93]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.14.22:849][ 93]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.14.26:538][290]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.14.55:508][929]Cmd: POLY SELECT ALL
+[2024.03.04-14.14.55:741][943]Cmd: POLY SELECT MEMORY UNION
+[2024.03.04-14.14.58:101][ 81]Cmd: TRANSACTION UNDO
+[2024.03.04-14.14.58:101][ 81]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.14.58:934][ 97]Cmd: TRANSACTION UNDO
+[2024.03.04-14.14.58:934][ 97]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.15.03:414][343]Cmd: TRANSACTION UNDO
+[2024.03.04-14.15.03:415][343]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.15.08:157][578]Cmd: TRANSACTION UNDO
+[2024.03.04-14.15.08:157][578]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.15.14:314][873]Cmd: TRANSACTION UNDO
+[2024.03.04-14.15.14:314][873]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.15.38:092][245]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.16.29:834][161]Cmd: TRANSACTION UNDO
+[2024.03.04-14.16.29:834][161]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.17.09:292][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.17.09:300][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.17.09:300][453]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:17:09)
+[2024.03.04-14.17.09:300][453]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.17.09:380][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080585s)
+[2024.03.04-14.17.09:380][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.080628s)
+[2024.03.04-14.17.09:407][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.04-14.17.09:417][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.17.09:418][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.17.09:419][453]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.17.09:419][453]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2024.03.04-14.17.09:419][453]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.17.09:419][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.17.09:419][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.17.09:420][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.17.09:420][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.17.09:420][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.17.09:422][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.17.09:445][453]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.17.09:445][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.17.09:445][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.17.09:445][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.17.09:446][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.04-14.17.09:446][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.04-14.17.09:447][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.04-14.17.09:447][453]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.04-14.17.09:447][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.04-14.17.09:447][453]LogAudio: Display: Audio Device (ID: 15) registered with world 'Overview1'.
+[2024.03.04-14.17.09:447][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.04-14.17.09:450][453]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.17.09:488][453]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.17.09
+[2024.03.04-14.17.09:489][453]LogWorld: Bringing up level for play took: 0.038063
+[2024.03.04-14.17.09:491][453]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.04-14.17.09:496][453]PIE: Server logged in
+[2024.03.04-14.17.09:496][453]PIE: Play in editor total start time 0.197 seconds.
+[2024.03.04-14.17.30:539][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.17.30:539][702]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.17.30:541][702]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.17.30:545][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.17.30:548][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.17.30:552][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.17.30:581][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.17.30:586][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.04-14.17.30:586][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.04-14.17.30:588][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.04-14.17.30:603][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.04-14.17.30:675][703]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.04-14.17.35:180][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.18.15:440][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.18.15:555][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.04-14.18.15:888][255]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.18.15:890][255]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview14D574CC5496A673FDB7480A1B8AA65DC.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.18.15:903][255]LogFileHelpers: Saving map 'Overview1' took 0.405
+[2024.03.04-14.18.15:911][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 471 ms (total: 11.8 sec)
+[2024.03.04-14.18.15:914][255]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.18.15:914][255]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.18.19:985][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.04-14.18.20:055][494]LogLinker: Warning: [AssetLog] C:\Users\mrmad\OneDrive\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\ArtAssets\SpaceshipInterior\Maps\Demonstration.umap: Failed to load '/Game/ArtAssets/SpaceshipInterior/Maps/Demonstration_BuiltData': Can't find file.
+[2024.03.04-14.18.20:055][494]LogLinker: Warning: [AssetLog] C:\Users\mrmad\OneDrive\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\ArtAssets\SpaceshipInterior\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/ArtAssets/SpaceshipInterior/Maps/Demonstration_BuiltData'
+[2024.03.04-14.18.20:150][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.18.20:187][494]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArtAssets/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2024.03.04-14.18.20:187][494]LightingResults: New page: Lighting Build
+[2024.03.04-14.18.20:227][494]LoadErrors: New page: Loading map: Demonstration.umap
+[2024.03.04-14.18.20:271][494]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.18.20:271][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.18.20:272][494]MapCheck: New page: Map Check
+[2024.03.04-14.18.20:272][494]LightingResults: New page: Lighting Build
+[2024.03.04-14.18.20:292][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-14.18.20:310][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.04-14.18.20:321][494]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.18.20:323][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.18.20:334][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.04-14.18.20:340][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.04-14.18.20:402][494]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2024.03.04-14.18.20:402][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.18.20:402][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.18.20:403][494]LogAIModule: Creating AISystem for world Demonstration
+[2024.03.04-14.18.20:471][494]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.04-14.18.20:486][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.04-14.18.20:494][494]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.04-14.18.20:494][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: ================================================
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Total job queries 263, among them cache hits 103 (39.16%)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Tracking 160 distinct input hashes that result in 117 distinct outputs (73.12%)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: RAM used: 3.69 MiB of 819.20 MiB budget. Usage: 0.45%
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Shaders Compiled: 49
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Jobs assigned 49, completed 49 (100%)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Average time worker was idle: 1889.27 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.82 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 1.36 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 1.40
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Shader code size: average 39.925 KiB, min 28.582 KiB, max 85.023 KiB
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.49 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Average processing rate: 4.26 jobs/sec
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Total thread time: 21.013 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Total thread preprocess time: 4.781 s
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Percentage time preprocessing: 22.75%
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.69 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.57 sec, max 0.83 sec, min 0.32 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.44 sec, max 0.62 sec, min 0.31 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.39 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.10% of total time (compiled    7 times, average 0.69 sec, max 0.87 sec, min 0.50 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.75% of total time (compiled    9 times, average 0.39 sec, max 0.61 sec, min 0.24 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.62% of total time (compiled    7 times, average 0.44 sec, max 0.62 sec, min 0.31 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.52% of total time (compiled    5 times, average 0.57 sec, max 0.83 sec, min 0.32 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.92% of total time (compiled    6 times, average 0.38 sec, max 0.52 sec, min 0.23 sec)
+[2024.03.04-14.18.20:575][495]LogShaderCompilers: Display: ================================================
+[2024.03.04-14.19.12:362][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.19.12:369][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.19.12:369][564]PIE: New page: PIE session: Demonstration (4 Mar 2024, 14:19:12)
+[2024.03.04-14.19.12:370][564]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2024.03.04-14.19.12:443][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072929s)
+[2024.03.04-14.19.12:443][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.072973s)
+[2024.03.04-14.19.12:449][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.04-14.19.12:453][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.19.12:453][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.19.12:453][564]LogAIModule: Creating AISystem for world Demonstration
+[2024.03.04-14.19.12:454][564]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2024.03.04-14.19.12:454][564]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.19.12:454][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.19.12:454][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.19.12:455][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.19.12:455][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.19.12:455][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.19.12:457][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.19.12:475][564]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.19.12:477][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.19.12:477][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.19.12:477][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.19.12:477][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.04-14.19.12:477][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.04-14.19.12:479][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.04-14.19.12:479][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.04-14.19.12:479][564]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.04-14.19.12:479][564]LogAudio: Display: Audio Device (ID: 16) registered with world 'Demonstration'.
+[2024.03.04-14.19.12:479][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.04-14.19.12:487][564]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.19.12:520][564]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2024.03.04-14.19.12
+[2024.03.04-14.19.12:521][564]LogWorld: Bringing up level for play took: 0.033799
+[2024.03.04-14.19.12:523][564]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.03.04-14.19.12:527][564]PIE: Server logged in
+[2024.03.04-14.19.12:529][564]PIE: Play in editor total start time 0.159 seconds.
+[2024.03.04-14.20.15:029][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.20.15:029][291]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2024.03.04-14.20.15:031][291]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.20.15:036][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.20.15:039][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.20.15:042][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.20.15:046][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.20.15:050][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.04-14.20.15:050][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.04-14.20.15:052][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.04-14.20.15:064][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.04-14.20.15:148][292]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.03.04-14.20.16:063][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.04-14.20.16:187][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.20.16:211][344]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.20.16:211][344]LightingResults: New page: Lighting Build
+[2024.03.04-14.20.16:211][344]LoadErrors: New page: Loading map: Overview1.umap
+[2024.03.04-14.20.16:255][344]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.20.16:255][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.20.16:255][344]MapCheck: New page: Map Check
+[2024.03.04-14.20.16:255][344]LightingResults: New page: Lighting Build
+[2024.03.04-14.20.16:272][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-14.20.16:287][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.04-14.20.16:293][344]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.20.16:295][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.20.16:307][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.04-14.20.16:312][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.04-14.20.16:380][344]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview1'.
+[2024.03.04-14.20.16:380][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.20.16:380][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.20.16:381][344]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.20.16:441][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.04-14.20.16:457][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.04-14.20.16:463][344]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.04-14.20.16:463][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2024.03.04-14.20.19:090][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.20.19:099][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.20.19:099][489]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:20:19)
+[2024.03.04-14.20.19:099][489]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.20.19:173][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074694s)
+[2024.03.04-14.20.19:173][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.074732s)
+[2024.03.04-14.20.19:184][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.04-14.20.19:186][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.20.19:186][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.20.19:186][489]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.20.19:187][489]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2024.03.04-14.20.19:187][489]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.20.19:187][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.20.19:187][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.20.19:187][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.20.19:187][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.20.19:187][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.20.19:189][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.20.19:209][489]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.20.19:209][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.20.19:209][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.20.19:209][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.20.19:210][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.04-14.20.19:210][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.04-14.20.19:212][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.04-14.20.19:212][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.04-14.20.19:212][489]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.04-14.20.19:212][489]LogAudio: Display: Audio Device (ID: 17) registered with world 'Overview1'.
+[2024.03.04-14.20.19:212][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.04-14.20.19:215][489]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.20.19:251][489]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.20.19
+[2024.03.04-14.20.19:251][489]LogWorld: Bringing up level for play took: 0.036556
+[2024.03.04-14.20.19:254][489]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.04-14.20.19:259][489]PIE: Server logged in
+[2024.03.04-14.20.19:259][489]PIE: Play in editor total start time 0.161 seconds.
+[2024.03.04-14.21.04:385][184]Set new viewmode: Wireframe
+[2024.03.04-14.21.05:068][225]Set new viewmode: Wireframe
+[2024.03.04-14.21.07:279][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.21.07:279][355]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.21.07:281][355]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.21.07:286][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.21.07:289][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.21.07:293][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.21.07:295][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.21.07:301][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.04-14.21.07:301][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.04-14.21.07:302][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.04-14.21.07:315][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.04-14.21.07:353][356]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.04-14.21.10:696][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.21.10:780][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.04-14.21.11:114][553]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.21.11:116][553]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1A74281C744AB09424D60D783894C9F2B.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.21.11:132][553]LogFileHelpers: Saving map 'Overview1' took 0.382
+[2024.03.04-14.21.11:138][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 443 ms (total: 12.3 sec)
+[2024.03.04-14.21.11:145][553]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.21.11:145][553]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.21.21:715][176]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.21.45:844][576]Cmd: TRANSACTION UNDO
+[2024.03.04-14.21.45:844][576]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.21.57:079][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.22.08:247][861]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.04-14.22.08:247][861]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.04-14.22.18:725][474]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.22.27:963][ 23]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.22.28:346][ 46]Cmd: TRANSACTION UNDO
+[2024.03.04-14.22.28:346][ 46]LogEditorTransaction: Undo Edit Horizon Color
+[2024.03.04-14.22.28:844][ 51]Cmd: TRANSACTION UNDO
+[2024.03.04-14.22.28:844][ 51]LogEditorTransaction: Undo Edit Sun Height
+[2024.03.04-14.22.29:639][ 82]Cmd: TRANSACTION UNDO
+[2024.03.04-14.22.29:639][ 82]LogEditorTransaction: Undo Edit Zenith Color
+[2024.03.04-14.22.34:358][349]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.22.37:038][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.22.38:004][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.22.39:962][677]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.04-14.22.39:962][677]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.04-14.22.52:415][411]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.22.54:074][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.22.57:015][680]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.23.00:075][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.23.48:296][657]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.23.56:256][129]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.23.59:885][338]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.24.02:577][494]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.24.04:640][612]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.04-14.24.25:690][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.25.11:525][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.25.11:534][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.25.11:534][517]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:25:11)
+[2024.03.04-14.25.11:534][517]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.25.11:620][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086800s)
+[2024.03.04-14.25.11:620][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.086839s)
+[2024.03.04-14.25.11:661][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.04-14.25.11:685][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.25.11:685][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.25.11:686][517]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.25.11:686][517]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2024.03.04-14.25.11:686][517]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.25.11:686][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.25.11:686][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.25.11:687][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.25.11:687][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.25.11:687][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.25.11:689][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.25.11:708][517]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.25.11:708][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.25.11:708][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.25.11:708][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.25.11:710][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.04-14.25.11:710][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.04-14.25.11:712][517]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.04-14.25.11:712][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.04-14.25.11:712][517]LogAudio: Display: Audio Device (ID: 18) registered with world 'Overview1'.
+[2024.03.04-14.25.11:712][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.04-14.25.11:712][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.04-14.25.11:717][517]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.25.11:754][517]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.25.11
+[2024.03.04-14.25.11:755][517]LogWorld: Bringing up level for play took: 0.038018
+[2024.03.04-14.25.11:757][517]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.04-14.25.11:763][517]PIE: Server logged in
+[2024.03.04-14.25.11:763][517]PIE: Play in editor total start time 0.23 seconds.
+[2024.03.04-14.25.47:430][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.25.47:430][644]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.25.47:430][644]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.25.47:435][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.25.47:438][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.25.47:440][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.25.47:444][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.25.47:444][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.04-14.25.47:444][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.04-14.25.47:446][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.04-14.25.47:466][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.04-14.25.47:537][645]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.04-14.25.50:649][819]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.25.52:081][898]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.27.05:695][136]Cmd: TRANSACTION UNDO
+[2024.03.04-14.27.05:695][136]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.27.06:142][139]Cmd: TRANSACTION UNDO
+[2024.03.04-14.27.06:142][139]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.04-14.27.06:831][158]Cmd: TRANSACTION UNDO
+[2024.03.04-14.27.06:831][158]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.27.17:064][721]Cmd: DELETE
+[2024.03.04-14.27.17:064][721]Cmd: ACTOR DELETE
+[2024.03.04-14.27.17:078][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-14.27.17:079][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-14.27.17:085][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.04-14.27.17:095][721]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2024.03.04-14.31.46:750][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.04-14.31.47:079][  2]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto5
+[2024.03.04-14.31.47:081][  2]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto5CCF403114F2DC611C2DA8A90765E1B54.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto5.umap'
+[2024.03.04-14.31.47:083][  2]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto5.umap is in the /Temp path, will not scan.
+[2024.03.04-14.31.47:084][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.338
+[2024.03.04-14.31.47:084][  2]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.338
+[2024.03.04-14.39.20:025][111]Cmd: TRANSACTION UNDO
+[2024.03.04-14.39.20:026][111]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.39.22:555][235]Cmd: TRANSACTION UNDO
+[2024.03.04-14.39.22:555][235]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.41.07:593][488]LogDerivedDataCache: C:/Users/mrmad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.145 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3873 files in 5450 folders with total size 391 MiB.
+[2024.03.04-14.42.02:544][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.04-14.42.02:889][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto6
+[2024.03.04-14.42.02:890][737]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto673F3545C4ACD3B4659F1C7910E11AA58.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto6.umap'
+[2024.03.04-14.42.02:893][737]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto6.umap is in the /Temp path, will not scan.
+[2024.03.04-14.42.02:893][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.355
+[2024.03.04-14.42.02:893][737]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.355
+[2024.03.04-14.43.03:037][334]Cmd: TRANSACTION UNDO
+[2024.03.04-14.43.03:037][334]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.43.46:415][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.43.46:422][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.43.46:422][863]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:43:46)
+[2024.03.04-14.43.46:422][863]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.43.46:516][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093583s)
+[2024.03.04-14.43.46:516][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.093630s)
+[2024.03.04-14.43.46:523][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.04-14.43.46:531][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.43.46:531][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.43.46:531][863]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.43.46:532][863]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2024.03.04-14.43.46:532][863]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.43.46:532][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.43.46:532][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.43.46:532][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.43.46:532][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.43.46:532][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.43.46:535][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.43.46:553][863]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.43.46:554][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.43.46:554][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.43.46:554][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.43.46:556][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.04-14.43.46:556][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.04-14.43.46:557][863]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.04-14.43.46:557][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.04-14.43.46:557][863]LogAudio: Display: Audio Device (ID: 19) registered with world 'Overview1'.
+[2024.03.04-14.43.46:557][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.04-14.43.46:557][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.04-14.43.46:560][863]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.43.46:598][863]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.43.46
+[2024.03.04-14.43.46:599][863]LogWorld: Bringing up level for play took: 0.039003
+[2024.03.04-14.43.46:603][863]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.04-14.43.46:607][863]PIE: Server logged in
+[2024.03.04-14.43.46:608][863]PIE: Play in editor total start time 0.186 seconds.
+[2024.03.04-14.44.11:959][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.44.11:959][371]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.44.11:960][371]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.44.11:966][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.44.11:969][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.44.11:972][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.44.11:977][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.44.11:982][371]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.04-14.44.11:982][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.04-14.44.11:984][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.04-14.44.11:997][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.04-14.44.12:066][372]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.04-14.46.37:881][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.46.37:961][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.04-14.46.38:269][483]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.46.38:271][483]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1F250D00D496E3282D16430BFE3B3ABB4.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.46.38:283][483]LogFileHelpers: Saving map 'Overview1' took 0.352
+[2024.03.04-14.46.38:289][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 408 ms (total: 12.7 sec)
+[2024.03.04-14.46.38:296][483]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.46.38:296][483]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.48.52:639][259]Cmd: TRANSACTION UNDO
+[2024.03.04-14.48.52:639][259]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.48.55:606][403]Cmd: TRANSACTION UNDO
+[2024.03.04-14.48.55:606][403]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.49.08:322][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.49.08:329][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.49.08:329][142]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:49:08)
+[2024.03.04-14.49.08:329][142]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.49.08:405][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075920s)
+[2024.03.04-14.49.08:405][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.075958s)
+[2024.03.04-14.49.08:411][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.04-14.49.08:421][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.49.08:421][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.49.08:421][142]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.49.08:422][142]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2024.03.04-14.49.08:422][142]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.49.08:422][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.49.08:422][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.49.08:423][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.49.08:423][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.49.08:423][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.49.08:426][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.49.08:445][142]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.49.08:445][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.49.08:445][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.49.08:445][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.49.08:446][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.04-14.49.08:446][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.04-14.49.08:448][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.04-14.49.08:448][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.04-14.49.08:448][142]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.04-14.49.08:448][142]LogAudio: Display: Audio Device (ID: 20) registered with world 'Overview1'.
+[2024.03.04-14.49.08:448][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.04-14.49.08:450][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.49.08:487][142]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.49.08
+[2024.03.04-14.49.08:487][142]LogWorld: Bringing up level for play took: 0.037047
+[2024.03.04-14.49.08:490][142]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.03.04-14.49.08:495][142]PIE: Server logged in
+[2024.03.04-14.49.08:495][142]PIE: Play in editor total start time 0.166 seconds.
+[2024.03.04-14.49.17:789][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.49.17:789][685]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.49.17:790][685]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.49.17:795][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.49.17:799][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.49.17:802][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.49.17:806][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.49.17:810][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.04-14.49.17:810][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.04-14.49.17:812][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.04-14.49.17:827][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.04-14.49.17:892][686]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.03.04-14.50.06:939][569]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.06:939][569]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.50.14:005][946]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.14:005][946]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.50.14:510][950]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.14:510][950]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.50.14:889][955]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.14:889][955]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.50.15:137][956]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.15:137][956]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.50.15:379][957]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.15:379][957]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.50.15:614][957]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.15:614][957]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.50.15:962][961]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.15:962][961]LogEditorTransaction: Undo Move Elements
+[2024.03.04-14.50.16:705][990]Cmd: TRANSACTION UNDO
+[2024.03.04-14.50.16:705][990]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.50.51:343][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.50.51:430][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.04-14.50.51:775][999]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.50.51:776][999]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview17FFDCA9542472D395B31F582CD41BAED.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.50.51:788][999]LogFileHelpers: Saving map 'Overview1' took 0.393
+[2024.03.04-14.50.51:797][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 453 ms (total: 13.1 sec)
+[2024.03.04-14.50.51:804][999]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.50.51:804][999]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.51.22:327][780]Cmd: TRANSACTION UNDO
+[2024.03.04-14.51.22:327][780]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.51.51:447][478]Cmd: DELETE
+[2024.03.04-14.51.51:447][478]Cmd: ACTOR DELETE
+[2024.03.04-14.51.51:461][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-14.51.51:467][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.04-14.51.51:475][478]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.03.04-14.52.09:020][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-14.52.09:117][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.04-14.52.09:456][524]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-14.52.09:458][524]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1398054734F7ED50C21856490C7F4F764.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-14.52.09:471][524]LogFileHelpers: Saving map 'Overview1' took 0.390
+[2024.03.04-14.52.09:505][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 483 ms (total: 13.6 sec)
+[2024.03.04-14.52.09:510][524]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-14.52.09:510][524]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-14.52.10:260][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.52.29:422][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.52.46:136][649]Cmd: TRANSACTION UNDO
+[2024.03.04-14.52.46:136][649]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.53.06:063][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.53.38:508][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.53.40:312][776]Cmd: POLY SELECT ADJACENT WALLS
+[2024.03.04-14.53.47:920][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.53.50:037][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.53.51:138][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.53.53:434][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.54.45:385][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.04-14.54.45:394][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-14.54.45:394][566]PIE: New page: PIE session: Overview1 (4 Mar 2024, 14:54:45)
+[2024.03.04-14.54.45:394][566]LogPlayLevel: Creating play world package: /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.54.45:474][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080469s)
+[2024.03.04-14.54.45:474][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1 to /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 (0.080516s)
+[2024.03.04-14.54.45:483][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.04-14.54.45:493][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-14.54.45:493][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-14.54.45:494][566]LogAIModule: Creating AISystem for world Overview1
+[2024.03.04-14.54.45:494][566]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2024.03.04-14.54.45:494][566]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-14.54.45:495][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.04-14.54.45:495][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-14.54.45:495][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.04-14.54.45:495][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.04-14.54.45:495][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.04-14.54.45:497][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.04-14.54.45:515][566]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT)
+[2024.03.04-14.54.45:516][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-14.54.45:516][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-14.54.45:516][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-14.54.45:516][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.04-14.54.45:516][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.04-14.54.45:518][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.04-14.54.45:518][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.04-14.54.45:518][566]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.04-14.54.45:518][566]LogAudio: Display: Audio Device (ID: 21) registered with world 'Overview1'.
+[2024.03.04-14.54.45:518][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.04-14.54.45:521][566]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.04-14.54.45:559][566]LogWorld: Bringing World /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1.Overview1 up for play (max tick rate 60) at 2024.03.04-14.54.45
+[2024.03.04-14.54.45:559][566]LogWorld: Bringing up level for play took: 0.037496
+[2024.03.04-14.54.45:561][566]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.03.04-14.54.45:567][566]PIE: Server logged in
+[2024.03.04-14.54.45:567][566]PIE: Play in editor total start time 0.174 seconds.
+[2024.03.04-14.54.57:990][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.54.57:990][296]LogWorld: BeginTearingDown for /Game/ArtAssets/SpaceshipInterior/Maps/UEDPIE_0_Overview1
+[2024.03.04-14.54.57:991][296]LogWorld: UWorld::CleanupWorld for Overview1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-14.54.57:994][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.54.57:998][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-14.54.58:000][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-14.54.58:005][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-14.54.58:009][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.04-14.54.58:010][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.04-14.54.58:011][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.04-14.54.58:025][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.04-14.54.58:089][297]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.03.04-14.55.08:213][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.55.21:874][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.55.41:485][862]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.56.00:449][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.56.08:641][449]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.56.27:848][580]Cmd: TRANSACTION UNDO
+[2024.03.04-14.56.27:848][580]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.57.24:372][854]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-14.57.51:121][410]Cmd: TRANSACTION UNDO
+[2024.03.04-14.57.51:121][410]LogEditorTransaction: Undo Set Scale
+[2024.03.04-14.57.54:000][554]Cmd: TRANSACTION UNDO
+[2024.03.04-14.57.54:000][554]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.00.11:861][567]LogPhysics: Warning: Scale for /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.scifi_pipe_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.688
+[2024.03.04-15.00.11:861][567]LogPhysics: Warning: Scale for /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.scifi_pipe_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.688
+[2024.03.04-15.00.15:477][781]Cmd: TRANSACTION UNDO
+[2024.03.04-15.00.15:477][781]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.00.18:215][915]Cmd: TRANSACTION UNDO
+[2024.03.04-15.00.18:215][915]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.00.26:884][409]Cmd: TRANSACTION UNDO
+[2024.03.04-15.00.26:884][409]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.00.28:253][464]Cmd: DELETE
+[2024.03.04-15.00.28:253][464]Cmd: ACTOR DELETE
+[2024.03.04-15.00.28:267][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.04-15.00.28:275][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.04-15.00.28:282][464]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.03.04-15.00.34:223][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-15.00.52:731][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.04-15.01.16:847][289]Cmd: TRANSACTION UNDO
+[2024.03.04-15.01.16:847][289]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.01.20:282][460]Cmd: TRANSACTION UNDO
+[2024.03.04-15.01.20:282][460]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.01.31:235][ 95]Cmd: TRANSACTION UNDO
+[2024.03.04-15.01.31:235][ 95]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.01.44:506][850]Cmd: TRANSACTION UNDO
+[2024.03.04-15.01.44:506][850]LogEditorTransaction: Undo Move Elements
+[2024.03.04-15.02.06:481][ 95]Cmd: TRANSACTION UNDO
+[2024.03.04-15.02.06:481][ 95]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.02.08:149][169]Cmd: TRANSACTION UNDO
+[2024.03.04-15.02.08:149][169]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.02.53:921][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-15.02.54:004][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.04-15.02.54:353][832]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-15.02.54:356][832]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview12B7CBE8647582ED8338E72A741133E53.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-15.02.54:371][832]LogFileHelpers: Saving map 'Overview1' took 0.403
+[2024.03.04-15.02.54:398][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 476 ms (total: 14.1 sec)
+[2024.03.04-15.02.54:404][832]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-15.02.54:404][832]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.04-15.03.31:821][ 10]Cmd: TRANSACTION UNDO
+[2024.03.04-15.03.31:821][ 10]LogEditorTransaction: Undo Set Scale
+[2024.03.04-15.03.51:938][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-15.03.52:022][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.04-15.03.52:366][178]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.04-15.03.52:367][178]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview123EF2FE24648B1F155AB6EB74312A1A2.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.04-15.03.52:382][178]LogFileHelpers: Saving map 'Overview1' took 0.396
+[2024.03.04-15.03.52:389][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 450 ms (total: 14.5 sec)
+[2024.03.04-15.03.52:396][178]AssetCheck: New page: Asset Save: Overview1
+[2024.03.04-15.03.52:396][178]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
