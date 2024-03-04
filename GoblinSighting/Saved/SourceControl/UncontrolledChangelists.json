@@ -6,10 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Maps/Spaceship.umap",
-				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/BuildSpaceShip.umap",
-				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/SpaceBuild.umap",
 				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap",
 				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/SpaceBuildJustin.umap",
+				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Meshes/test.uasset",
+				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/BuildSpaceShip.umap",
+				"C:/Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/SpaceBuild.umap",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
