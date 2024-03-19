@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/LowPolyInterior/Maps/DEMO_Map_BuiltData.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/LowPolyInterior/Maps/Overview_Map_BuiltData.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar_Base.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/wb_Crosshair.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Enemies/Snail/Pawn_Snail.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Enemies/Turret/BP_Turret.uasset",
+				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Enemies/Mauler/BP_Mauler.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar_Base.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/ArtAssets/SpaceshipInterior/Maps/Overview1.umap",
