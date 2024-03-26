@@ -1407,3 +1407,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.26-11.08.58:422][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 510 ms
 [2024.03.26-11.08.58:432][812]AssetCheck: New page: Asset Save: Overview1
 [2024.03.26-11.08.58:432][812]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-11.13.04:972][732]Cmd: TRANSACTION UNDO
+[2024.03.26-11.13.04:972][732]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.26-11.13.48:787][ 86]Cmd: TRANSACTION UNDO
+[2024.03.26-11.13.48:788][ 86]LogEditorTransaction: Undo Move Elements
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: ================================================
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: Total job queries 229, among them cache hits 117 (51.09%)
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 85 distinct outputs (75.89%)
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: RAM used: 2.44 MiB of 819.20 MiB budget. Usage: 0.30%
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.26-11.13.53:199][304]LogShaderCompilers: Display: ================================================
+[2024.03.26-11.15.12:298][781]Cmd: TRANSACTION UNDO
+[2024.03.26-11.15.12:298][781]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.15.19:778][194]Cmd: TRANSACTION UNDO
+[2024.03.26-11.15.19:778][194]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.15.58:562][403]Cmd: TRANSACTION UNDO
+[2024.03.26-11.15.58:563][403]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.19.04:383][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.26-11.19.04:849][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto2
+[2024.03.26-11.19.04:850][981]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto2B5A969D04DC0E1C607CD598DE0472E51.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto2.umap'
+[2024.03.26-11.19.04:855][981]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto2.umap is in the /Temp path, will not scan.
+[2024.03.26-11.19.04:855][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.486
+[2024.03.26-11.19.04:855][981]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.486
+[2024.03.26-11.19.06:544][ 81]Cmd: TRANSACTION UNDO
+[2024.03.26-11.19.06:544][ 81]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.20.03:437][360]Cmd: TRANSACTION UNDO
+[2024.03.26-11.20.03:437][360]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.20.09:702][709]Cmd: TRANSACTION UNDO
+[2024.03.26-11.20.09:703][709]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.24.30:426][840]Cmd: DELETE
+[2024.03.26-11.24.30:426][840]Cmd: ACTOR DELETE
+[2024.03.26-11.24.30:450][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-11.24.30:463][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.26-11.24.30:465][840]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2024.03.26-11.24.32:434][954]Cmd: DELETE
+[2024.03.26-11.24.32:434][954]Cmd: ACTOR DELETE
+[2024.03.26-11.24.32:452][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-11.24.32:466][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.26-11.24.32:469][954]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.03.26-11.24.40:865][441]Cmd: DELETE
+[2024.03.26-11.24.40:865][441]Cmd: ACTOR DELETE
+[2024.03.26-11.24.40:885][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-11.24.40:897][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.26-11.24.40:900][441]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.03.26-11.25.13:137][326]Cmd: DELETE
+[2024.03.26-11.25.13:137][326]Cmd: ACTOR DELETE
+[2024.03.26-11.25.13:155][326]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-11.25.13:168][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.26-11.25.13:170][326]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.03.26-11.27.51:699][166]Cmd: TRANSACTION UNDO
+[2024.03.26-11.27.51:699][166]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.28.46:047][316]Cmd: TRANSACTION UNDO
+[2024.03.26-11.28.46:047][316]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.26-11.28.57:253][954]Cmd: TRANSACTION UNDO
+[2024.03.26-11.28.57:253][954]LogEditorTransaction: Undo Paste Scale
+[2024.03.26-11.28.57:627][962]Cmd: TRANSACTION UNDO
+[2024.03.26-11.28.57:627][962]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.26-11.28.58:200][985]Cmd: TRANSACTION UNDO
+[2024.03.26-11.28.58:200][985]LogEditorTransaction: Undo Paste Scale
+[2024.03.26-11.29.44:130][665]Cmd: TRANSACTION UNDO
+[2024.03.26-11.29.44:130][665]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.29.45:852][751]Cmd: TRANSACTION UNDO
+[2024.03.26-11.29.45:852][751]LogEditorTransaction: Undo Set Scale
+[2024.03.26-11.30.14:690][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.26-11.30.15:162][ 65]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3
+[2024.03.26-11.30.15:163][ 65]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1_Auto3645E8B1746C45DB90CF5718B64B81D35.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3.umap'
+[2024.03.26-11.30.15:167][ 65]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/ArtAssets/SpaceshipInterior/Maps/Overview1_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.26-11.30.15:167][ 65]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArtAssets/SpaceshipInterior/Maps/Overview1' took 0.492
+[2024.03.26-11.30.15:167][ 65]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.492
+[2024.03.26-11.31.53:039][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-11.31.53:145][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.26-11.31.53:641][813]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-11.31.53:642][813]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1F1A78DED49D5647F785FC49CC55D7648.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-11.31.53:664][813]LogFileHelpers: Saving map 'Overview1' took 0.583
+[2024.03.26-11.31.53:673][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 634 ms (total: 1.14 sec)
+[2024.03.26-11.31.53:677][813]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-11.31.53:677][813]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
