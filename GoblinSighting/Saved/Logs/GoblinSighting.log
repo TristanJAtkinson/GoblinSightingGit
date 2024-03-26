@@ -1487,3 +1487,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.26-11.31.53:673][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 634 ms (total: 1.14 sec)
 [2024.03.26-11.31.53:677][813]AssetCheck: New page: Asset Save: Overview1
 [2024.03.26-11.31.53:677][813]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-11.47.07:612][360]LogDerivedDataCache: C:/Users/mrmad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.206 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4286 files in 6037 folders with total size 392 MiB.
+[2024.03.26-12.03.54:667][195]Cmd: TRANSACTION UNDO
+[2024.03.26-12.03.54:667][195]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.04.37:751][598]Cmd: TRANSACTION UNDO
+[2024.03.26-12.04.37:751][598]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.07.15:472][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-12.07.15:569][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.26-12.07.16:060][570]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-12.07.16:061][570]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview175E4A5C7482873E1B745CFA453475D24.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-12.07.16:079][570]LogFileHelpers: Saving map 'Overview1' took 0.568
+[2024.03.26-12.07.16:110][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 638 ms (total: 1.78 sec)
+[2024.03.26-12.07.16:118][570]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-12.07.16:118][570]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-12.07.59:033][ 61]Cmd: TRANSACTION UNDO
+[2024.03.26-12.07.59:033][ 61]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.08.12:955][844]Cmd: TRANSACTION UNDO
+[2024.03.26-12.08.12:955][844]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.11.43:598][815]Cmd: DELETE
+[2024.03.26-12.11.43:598][815]Cmd: ACTOR DELETE
+[2024.03.26-12.11.43:621][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-12.11.43:641][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.26-12.11.43:644][815]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.03.26-12.11.54:579][435]Cmd: TRANSACTION UNDO
+[2024.03.26-12.11.54:579][435]LogEditorTransaction: Undo Move Elements
+[2024.03.26-12.12.12:721][427]Cmd: TRANSACTION UNDO
+[2024.03.26-12.12.12:721][427]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.12.22:490][962]Cmd: TRANSACTION UNDO
+[2024.03.26-12.12.22:490][962]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.12.33:643][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-12.12.33:749][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.26-12.12.34:239][588]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-12.12.34:240][588]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview19A42341F4D09610DA89E65B8AE590A8D.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-12.12.34:261][588]LogFileHelpers: Saving map 'Overview1' took 0.572
+[2024.03.26-12.12.34:268][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 625 ms (total: 2.40 sec)
+[2024.03.26-12.12.34:277][588]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-12.12.34:277][588]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-12.15.16:796][881]Cmd: TRANSACTION UNDO
+[2024.03.26-12.15.16:796][881]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.15.18:822][986]Cmd: TRANSACTION UNDO
+[2024.03.26-12.15.18:822][986]LogEditorTransaction: Undo Set Scale
+[2024.03.26-12.15.38:255][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-12.15.38:357][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.26-12.15.38:819][ 85]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-12.15.38:820][ 85]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1537B07904AC8F66AD29BE2A0876EA9C8.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-12.15.38:838][ 85]LogFileHelpers: Saving map 'Overview1' took 0.542
+[2024.03.26-12.15.38:847][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 591 ms (total: 3.00 sec)
+[2024.03.26-12.15.38:855][ 85]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-12.15.38:855][ 85]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-12.17.13:460][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-12.17.13:555][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.26-12.17.14:020][541]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-12.17.14:021][541]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview17F9976DE4E29E1D93BBD77A0C7856F98.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-12.17.14:041][541]LogFileHelpers: Saving map 'Overview1' took 0.548
+[2024.03.26-12.17.14:074][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 612 ms (total: 3.61 sec)
+[2024.03.26-12.17.14:081][541]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-12.17.14:081][541]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.26-12.18.33:152][572]Cmd: DELETE
+[2024.03.26-12.18.33:152][572]Cmd: ACTOR DELETE
+[2024.03.26-12.18.33:172][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-12.18.33:196][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.26-12.18.33:198][572]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.03.26-12.19.46:084][710]Cmd: DELETE
+[2024.03.26-12.19.46:084][710]Cmd: ACTOR DELETE
+[2024.03.26-12.19.46:104][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-12.19.46:105][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.26-12.19.46:130][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.26-12.19.46:133][710]LogEditorActor: Deleted 2 Actors (0.048 secs)
+[2024.03.26-12.19.53:375][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-12.19.53:475][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.26-12.19.53:955][134]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.26-12.19.53:956][134]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1903EFB714F420CDA5FB1CB85F7BC3B9B.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.26-12.19.53:974][134]LogFileHelpers: Saving map 'Overview1' took 0.559
+[2024.03.26-12.19.53:984][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 609 ms (total: 4.22 sec)
+[2024.03.26-12.19.53:992][134]AssetCheck: New page: Asset Save: Overview1
+[2024.03.26-12.19.53:993][134]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
