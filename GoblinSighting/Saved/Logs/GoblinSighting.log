@@ -1426,3 +1426,127 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.29-10.21.27:284][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 575 ms (total: 2.75 sec)
 [2024.03.29-10.21.27:291][583]AssetCheck: New page: Asset Save: Overview1
 [2024.03.29-10.21.27:291][583]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.29-10.23.06:049][298]Cmd: TRANSACTION UNDO
+[2024.03.29-10.23.06:049][298]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.23.09:651][487]Cmd: TRANSACTION UNDO
+[2024.03.29-10.23.09:651][487]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.23.11:496][578]Cmd: TRANSACTION UNDO
+[2024.03.29-10.23.11:496][578]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.23.55:881][148]Cmd: DELETE
+[2024.03.29-10.23.55:881][148]Cmd: ACTOR DELETE
+[2024.03.29-10.23.55:899][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:900][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:900][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:901][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:902][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:902][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:902][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:903][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:903][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:903][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:904][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:904][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:905][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:905][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:905][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:906][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:906][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:907][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.23.55:921][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.29-10.23.55:923][148]LogEditorActor: Deleted 18 Actors (0.041 secs)
+[2024.03.29-10.25.05:287][972]Cmd: DELETE
+[2024.03.29-10.25.05:287][972]Cmd: ACTOR DELETE
+[2024.03.29-10.25.05:305][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:305][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:306][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:306][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:307][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:307][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:307][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:308][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:309][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:309][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:310][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:310][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:310][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:310][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:311][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:311][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:312][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:313][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:313][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:314][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:314][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:314][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:315][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:315][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:315][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:315][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:316][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:316][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:318][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:318][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:319][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:319][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:319][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:320][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:320][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:320][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:321][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:321][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:321][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:322][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:323][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:323][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.05:337][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.29-10.25.05:339][972]LogEditorActor: Deleted 42 Actors (0.052 secs)
+[2024.03.29-10.25.06:523][ 39]Cmd: TRANSACTION UNDO
+[2024.03.29-10.25.06:523][ 39]LogEditorTransaction: Undo Delete Elements
+[2024.03.29-10.25.24:179][944]Cmd: DELETE
+[2024.03.29-10.25.24:179][944]Cmd: ACTOR DELETE
+[2024.03.29-10.25.24:195][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:197][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:197][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:198][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:198][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:198][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:198][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:199][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:199][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:199][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:200][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:200][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:200][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:201][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:201][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:202][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:202][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:202][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.25.24:215][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.29-10.25.24:217][944]LogEditorActor: Deleted 18 Actors (0.037 secs)
+[2024.03.29-10.27.43:953][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.27.44:027][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.29-10.27.44:455][926]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.29-10.27.44:456][926]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview14D882933400B404A652536A25FEFA5FD.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.29-10.27.44:472][926]LogFileHelpers: Saving map 'Overview1' took 0.490
+[2024.03.29-10.27.44:513][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 558 ms (total: 3.31 sec)
+[2024.03.29-10.27.44:520][926]AssetCheck: New page: Asset Save: Overview1
+[2024.03.29-10.27.44:520][926]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.29-10.46.26:435][799]Cmd: DELETE
+[2024.03.29-10.46.26:435][799]Cmd: ACTOR DELETE
+[2024.03.29-10.46.26:453][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.46.26:471][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.29-10.46.26:473][799]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.03.29-10.46.27:473][850]Cmd: DELETE
+[2024.03.29-10.46.27:473][850]Cmd: ACTOR DELETE
+[2024.03.29-10.46.27:492][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-10.46.27:507][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.29-10.46.27:510][850]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.03.29-10.46.34:584][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.46.34:664][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.29-10.46.35:088][265]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.29-10.46.35:089][265]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1A9336101429540BBB04F1788B53BAFCD.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.29-10.46.35:105][265]LogFileHelpers: Saving map 'Overview1' took 0.490
+[2024.03.29-10.46.35:142][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 558 ms (total: 3.87 sec)
+[2024.03.29-10.46.35:149][265]AssetCheck: New page: Asset Save: Overview1
+[2024.03.29-10.46.35:149][265]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
