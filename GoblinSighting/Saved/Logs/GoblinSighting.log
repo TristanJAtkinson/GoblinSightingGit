@@ -1550,3 +1550,11 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.29-10.46.35:142][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 558 ms (total: 3.87 sec)
 [2024.03.29-10.46.35:149][265]AssetCheck: New page: Asset Save: Overview1
 [2024.03.29-10.46.35:149][265]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.03.29-10.53.18:016][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.53.18:307][969]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2024.03.29-10.53.19:043][969]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.03.29-10.53.19:045][969]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview191141F9840569D5D6F6440B8589F95DD.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.03.29-10.53.19:089][969]LogFileHelpers: Saving map 'Overview1' took 0.983
+[2024.03.29-10.53.19:102][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.08 sec (total: 4.95 sec)
+[2024.03.29-10.53.19:114][969]AssetCheck: New page: Asset Save: Overview1
+[2024.03.29-10.53.19:114][969]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
