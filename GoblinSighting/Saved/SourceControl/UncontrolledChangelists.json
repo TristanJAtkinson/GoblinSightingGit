@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Spaceeship/SpaceshipInterior/Meshes/SM_Scifi_Lamp.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/Spaceeship/SpaceshipInterior/Meshes/SM_Scifi_Floor_03_4x2m.uasset",
@@ -422,6 +421,8 @@
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/AudioAssets/SFX/Enemies/SC_EnemySpawn.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/Enemies/Mauler/BP_Mauler.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Asset_Packs/InfinityBladeEffects/Effects/FX_Combat_Base/WeaponCombo/P_Cube_Mesh_Test.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset",
+				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Timer_Frame.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Filling/Filler_01.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Filling/Filler_02.uasset",
