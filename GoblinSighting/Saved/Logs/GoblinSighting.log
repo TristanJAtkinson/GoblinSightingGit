@@ -3398,3 +3398,419 @@ Script Stack (0 frames) :
 [2024.04.08-15.45.23:257][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2024.04.08-15.45.25:397][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2024.04.08-15.45.28:647][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.46.26:230][633]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.46.26:358][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.08-15.46.27:325][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.46.27:576][698]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.46.27:577][698]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar7C87651D4E4BD8073531629D7B33E4E8.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.46.27:584][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 4.10 sec)
+[2024.04.08-15.46.27:587][698]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.46.27:587][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.46.35:570][585]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.46.35:702][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.08-15.46.36:087][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.46.36:264][586]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.46.36:265][586]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar108759D340C75E802236CB9330D6907A.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.46.36:271][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 4.28 sec)
+[2024.04.08-15.46.36:274][586]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.46.36:274][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.46.36:690][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.46.36:854][634]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.46.36:855][634]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar1B4EB7DE41AAA322A36F659163A055D6.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.46.36:861][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 4.45 sec)
+[2024.04.08-15.46.36:864][634]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.46.36:864][634]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.46.44:133][483]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.46.44:266][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.08-15.46.44:912][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.46.45:165][508]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.46.45:166][508]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar8D9882434B620877C691AABE770CC9DA.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.46.45:172][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 4.71 sec)
+[2024.04.08-15.46.45:174][508]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.46.45:174][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.48.26:873][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.08-15.48.26:878][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.48.27:109][480]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.48.27:110][480]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharEE0B9ABA41493E8D6309CDBE48C3F5E6.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.48.27:116][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 4.95 sec)
+[2024.04.08-15.48.27:119][480]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.48.27:119][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.48.27:644][541]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.48.27:771][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.08-15.48.28:780][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.48.29:053][631]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.48.29:054][631]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharE313DCFA4D0F20F8A3B70FB963DE5E93.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.48.29:060][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 5.23 sec)
+[2024.04.08-15.48.29:063][631]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.48.29:063][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.48.43:997][322]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.48.44:129][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.08-15.48.44:651][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.48.44:891][361]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.48.44:892][361]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharA686F7CC44B0EED37A3D13AEC70127F8.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.48.44:899][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 5.48 sec)
+[2024.04.08-15.48.44:902][361]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.48.44:902][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.48.45:689][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.48.45:699][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-15.48.45:699][453]PIE: New page: PIE session: House (8 Apr 2024, 17:48:45)
+[2024.04.08-15.48.45:699][453]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.48.45:715][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016409s)
+[2024.04.08-15.48.45:715][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.016443s)
+[2024.04.08-15.48.45:731][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.08-15.48.45:736][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.48.45:736][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.48.45:736][453]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.48.45:737][453]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2024.04.08-15.48.45:737][453]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.48.45:737][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.48.45:737][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.48.45:737][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.48.45:737][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.48.45:737][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.48.45:739][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.48.45:763][453]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.48.45:763][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.48.45:763][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.48.45:763][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.48.45:764][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.08-15.48.45:764][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.08-15.48.45:765][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.08-15.48.45:765][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.08-15.48.45:765][453]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.08-15.48.45:765][453]LogAudio: Display: Audio Device (ID: 13) registered with world 'House'.
+[2024.04.08-15.48.45:765][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.08-15.48.45:793][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.48.45:793][453]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.48.45:795][453]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.48.45
+[2024.04.08-15.48.45:795][453]LogWorld: Bringing up level for play took: 0.001862
+[2024.04.08-15.48.45:798][453]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.04.08-15.48.45:806][453]PIE: Server logged in
+[2024.04.08-15.48.45:810][453]PIE: Play in editor total start time 0.111 seconds.
+[2024.04.08-15.48.45:812][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.48.45:821][453]LogViewport: Scene viewport resized to 2566x1410, mode Windowed.
+[2024.04.08-15.48.45:839][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.48.45:845][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.48.45:851][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.48.46:027][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.48.46:033][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.48.46:127][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.48.46:134][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.48.46:194][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.48.53:704][839]LogBlueprintUserMessages: [BP_EnemySpawner_C_4] Turret Spawned
+[2024.04.08-15.48.54:756][889]LogBlueprintUserMessages: [BP_ActionChar_C_0] 200.0
+[2024.04.08-15.48.54:756][889]LogBlueprintUserMessages: [BP_ActionChar_C_0] 1
+[2024.04.08-15.48.56:430][963]LogBlueprintUserMessages: [BP_ActionChar_C_0] 600.0
+[2024.04.08-15.48.56:430][963]LogBlueprintUserMessages: [BP_ActionChar_C_0] 2
+[2024.04.08-15.48.57:482][  9]LogBlueprintUserMessages: [BP_ActionChar_C_0] 6.6
+[2024.04.08-15.48.57:482][  9]LogBlueprintUserMessages: [BP_ActionChar_C_0] 3
+[2024.04.08-15.48.58:267][ 44]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:267][ 44]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:290][ 45]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:290][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:313][ 46]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:313][ 46]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:336][ 47]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:336][ 47]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:358][ 48]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:358][ 48]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:381][ 49]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:381][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:404][ 50]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:404][ 50]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:426][ 51]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:426][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:449][ 52]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:449][ 52]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:471][ 53]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:471][ 53]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:494][ 54]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:494][ 54]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:516][ 55]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:516][ 55]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:538][ 56]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:539][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:561][ 57]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:561][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:584][ 58]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:584][ 58]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:606][ 59]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:606][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:629][ 60]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.48.58:629][ 60]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Branch Graph:  On Interact Function:  On Interact Blueprint:  BP_ActionChar
+[2024.04.08-15.48.58:629][ 60]LogBlueprintUserMessages: [BP_ActionChar_C_0] 0.32
+[2024.04.08-15.48.58:629][ 60]LogBlueprintUserMessages: [BP_ActionChar_C_0] 4
+[2024.04.08-15.49.00:002][124]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:002][124]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:023][125]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:024][125]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:045][126]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:045][126]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:067][127]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:067][127]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:089][128]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:089][128]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:111][129]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:111][129]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:133][130]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:133][130]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:155][131]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:155][131]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:177][132]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:177][132]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:199][133]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:199][133]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:221][134]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:221][134]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:243][135]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:243][135]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:266][136]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:266][136]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:288][137]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:288][137]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:310][138]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:310][138]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:332][139]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:332][139]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:355][140]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:355][140]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:377][141]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:377][141]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:400][142]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:401][142]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.00:423][143]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.00:423][143]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Branch Graph:  On Interact Function:  On Interact Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:199][178]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:199][178]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:222][179]LogBlueprintUserMessages: [BP_EnemySpawner_C_4] Mailer Spawned
+[2024.04.08-15.49.01:222][179]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:222][179]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:242][180]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:242][180]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:263][181]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:263][181]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:284][182]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:285][182]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:306][183]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:306][183]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:327][184]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:327][184]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:349][185]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:349][185]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:370][186]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:370][186]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:391][187]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:391][187]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:413][188]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:413][188]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:434][189]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:435][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:457][190]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:457][190]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:479][191]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:479][191]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:501][192]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:501][192]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:523][193]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:523][193]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:545][194]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:545][194]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:567][195]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:567][195]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:588][196]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:589][196]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:611][197]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:611][197]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:633][198]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:633][198]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:655][199]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:655][199]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:677][200]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:677][200]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:699][201]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:700][201]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:722][202]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:722][202]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:745][203]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:745][203]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:767][204]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:767][204]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:790][205]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:790][205]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:812][206]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:812][206]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Set Text Graph:  Interact Set Text Function:  Interact Set Text Blueprint:  BP_ActionChar
+[2024.04.08-15.49.01:834][207]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Vendingachine_FireRate_C /Game/BluePrints/Maps/UEDPIE_0_House.House:PersistentLevel.BP_Vendingachine_FireRate_C_1
+	Function /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent_C:Is Interactable / Get Details:01FF
+[2024.04.08-15.49.01:834][207]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array Upgrades_In_Use of length 6!". Node:  Branch Graph:  On Interact Function:  On Interact Blueprint:  BP_ActionChar
+[2024.04.08-15.49.03:616][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.49.03:616][290]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.49.03:617][290]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.49.03:626][290]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.49.03:626][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.49.03:628][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.49.03:634][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.49.03:650][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-15.49.03:650][290]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.08-15.49.03:650][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.08-15.49.03:652][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.08-15.49.03:659][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.08-15.49.03:781][291]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.08-15.51.11:980][475]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.51.11:984][475]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.51.48:049][578]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.08-15.51.48:049][578]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.08-15.51.49:038][696]LogEditorTransaction: Undo Move Node
+[2024.04.08-15.51.49:557][708]LogEditorTransaction: Undo Create Reroute Node
+[2024.04.08-15.51.58:385][722]LogEditorTransaction: Undo Move Node
+[2024.04.08-15.51.59:774][832]LogEditorTransaction: Undo Create Reroute Node
+[2024.04.08-15.52.18:154][800]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.52.18:290][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.08-15.52.19:103][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.52.19:325][867]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.52.19:326][867]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar7FDC7CF541CFCB9DC7FAC6A99D61FFE4.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.52.19:332][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 5.70 sec)
+[2024.04.08-15.52.19:335][867]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.52.19:335][867]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.52.22:632][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.52.23:956][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.08-15.52.26:087][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.08-15.52.30:281][139]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
