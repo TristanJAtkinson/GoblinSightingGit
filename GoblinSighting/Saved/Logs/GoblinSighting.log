@@ -3052,3 +3052,349 @@ Script Stack (0 frames) :
 [2024.04.08-15.39.21:615][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 2.36 sec)
 [2024.04.08-15.39.21:617][431]AssetCheck: New page: Asset Save: BP_ActionChar
 [2024.04.08-15.39.21:617][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.39.40:849][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.39.40:857][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-15.39.40:857][854]PIE: New page: PIE session: House (8 Apr 2024, 17:39:40)
+[2024.04.08-15.39.40:857][854]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.39.40:874][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017091s)
+[2024.04.08-15.39.40:874][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.017123s)
+[2024.04.08-15.39.40:887][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.39.40:888][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.39.40:888][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.39.40:888][854]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.39.40:889][854]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2024.04.08-15.39.40:889][854]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.39.40:889][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.39.40:889][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.39.40:889][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.39.40:889][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.39.40:889][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.39.40:891][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.39.40:915][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.39.40:915][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.39.40:915][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.39.40:915][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.39.40:916][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.08-15.39.40:916][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.08-15.39.40:917][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.08-15.39.40:917][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.08-15.39.40:917][854]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.08-15.39.40:917][854]LogAudio: Display: Audio Device (ID: 9) registered with world 'House'.
+[2024.04.08-15.39.40:917][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.08-15.39.40:943][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.39.40:944][854]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.39.40:946][854]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.39.40
+[2024.04.08-15.39.40:946][854]LogWorld: Bringing up level for play took: 0.001986
+[2024.04.08-15.39.40:948][854]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.04.08-15.39.40:955][854]PIE: Server logged in
+[2024.04.08-15.39.40:956][854]PIE: Play in editor total start time 0.099 seconds.
+[2024.04.08-15.39.40:957][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.40:966][854]LogViewport: Scene viewport resized to 2558x1370, mode Windowed.
+[2024.04.08-15.39.40:985][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.40:989][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.40:999][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:182][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.41:189][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:227][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.41:234][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:269][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.41:278][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:314][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.41:322][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:335][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.41:344][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.39.41:358][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.39.42:347][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.39.42:347][908]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.39.42:348][908]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.39.42:354][908]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.39.42:354][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.39.42:356][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.39.42:361][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.39.42:376][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.08-15.39.42:376][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.08-15.39.42:378][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.08-15.39.42:385][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.08-15.39.42:491][909]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.04.08-15.39.44:765][149]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.39.44:769][149]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.40.42:313][480]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.40.42:431][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.08-15.40.42:891][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.40.43:141][504]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.40.43:141][504]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar3E9F755242ED54890FE63FA2EF757C39.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.40.43:147][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 2.62 sec)
+[2024.04.08-15.40.43:150][504]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.40.43:150][504]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.41.02:014][617]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.41.02:135][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.08-15.41.03:063][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.41.03:294][699]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.41.03:295][699]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar97BDA91948B407E8C30AF59157C11FD6.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.41.03:300][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 2.85 sec)
+[2024.04.08-15.41.03:304][699]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.41.03:304][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.41.09:188][354]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.41.09:310][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.08-15.41.09:735][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.41.09:986][384]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.41.09:986][384]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar387ACFB74DC40C0E46042DA7E306DE28.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.41.09:993][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 3.11 sec)
+[2024.04.08-15.41.09:996][384]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.41.09:996][384]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.41.10:638][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.41.10:646][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-15.41.10:646][458]PIE: New page: PIE session: House (8 Apr 2024, 17:41:10)
+[2024.04.08-15.41.10:646][458]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.41.10:663][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016170s)
+[2024.04.08-15.41.10:663][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.016200s)
+[2024.04.08-15.41.10:678][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.08-15.41.10:681][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.41.10:681][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.41.10:682][458]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.41.10:682][458]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2024.04.08-15.41.10:682][458]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.41.10:682][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.41.10:682][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.41.10:683][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.41.10:683][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.41.10:683][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.41.10:684][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.41.10:708][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.41.10:708][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.41.10:708][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.41.10:708][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.41.10:709][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.08-15.41.10:709][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.08-15.41.10:710][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.08-15.41.10:710][458]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.08-15.41.10:710][458]LogAudio: Display: Audio Device (ID: 10) registered with world 'House'.
+[2024.04.08-15.41.10:710][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.08-15.41.10:710][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.08-15.41.10:737][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.41.10:737][458]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.41.10:740][458]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.41.10
+[2024.04.08-15.41.10:740][458]LogWorld: Bringing up level for play took: 0.002252
+[2024.04.08-15.41.10:742][458]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.04.08-15.41.10:750][458]PIE: Server logged in
+[2024.04.08-15.41.10:752][458]PIE: Play in editor total start time 0.106 seconds.
+[2024.04.08-15.41.10:753][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.10:763][458]LogViewport: Scene viewport resized to 2560x1380, mode Windowed.
+[2024.04.08-15.41.10:782][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.41.10:785][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.10:791][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.41.11:054][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.11:060][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.41.11:090][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.11:097][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.41.11:108][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.11:116][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.41.11:134][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.41.17:765][817]LogBlueprintUserMessages: [BP_ActionChar_C_0] 200.0
+[2024.04.08-15.41.17:765][817]LogBlueprintUserMessages: [BP_ActionChar_C_0] 1
+[2024.04.08-15.41.18:636][861]LogBlueprintUserMessages: [BP_EnemySpawner_C_4] Mailer Spawned
+[2024.04.08-15.41.18:833][871]LogBlueprintUserMessages: [BP_ActionChar_C_0] 300.0
+[2024.04.08-15.41.18:833][871]LogBlueprintUserMessages: [BP_ActionChar_C_0] 2
+[2024.04.08-15.41.19:623][911]LogBlueprintUserMessages: [BP_ActionChar_C_0] 400.0
+[2024.04.08-15.41.19:623][911]LogBlueprintUserMessages: [BP_ActionChar_C_0] 3
+[2024.04.08-15.41.20:395][950]LogBlueprintUserMessages: [BP_ActionChar_C_0] 500.0
+[2024.04.08-15.41.20:395][950]LogBlueprintUserMessages: [BP_ActionChar_C_0] 4
+[2024.04.08-15.41.21:166][989]LogBlueprintUserMessages: [BP_ActionChar_C_0] 600.0
+[2024.04.08-15.41.21:166][989]LogBlueprintUserMessages: [BP_ActionChar_C_0] 5
+[2024.04.08-15.41.26:144][233]LogBlueprintUserMessages: [BP_EnemySpawner_C_4] Mailer Spawned
+[2024.04.08-15.41.30:377][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.41.30:377][429]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.41.30:377][429]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.41.30:382][429]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.41.30:382][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.41.30:384][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.41.30:390][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.41.30:405][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-15.41.30:406][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.08-15.41.30:406][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.08-15.41.30:407][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.08-15.41.30:414][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.08-15.41.30:518][430]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.08-15.41.33:013][699]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.41.33:018][699]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.44.25:657][844]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.44.25:716][844]LogBlueprint: Error: [AssetLog] C:\Users\alios\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\BluePrints\Characters\BP_ActionChar.uasset: [Compiler] This blueprint (self) is not a BP_Vendingachine_Parent_C, therefore ' Target ' must have a connection.
+[2024.04.08-15.44.25:721][844]LogBlueprint: Error: [AssetLog] C:\Users\alios\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\BluePrints\Characters\BP_ActionChar.uasset: [Compiler] Variable node  Get Upgrade BulletDamage Amount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.04.08-15.44.25:773][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.08-15.44.26:300][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.44.26:523][881]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.44.26:524][881]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar0F1D91374BA01C316610AB8D0BCAEF15.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.44.26:532][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 3.34 sec)
+[2024.04.08-15.44.26:535][881]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.44.26:535][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.44.31:298][395]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.44.31:418][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.08-15.44.32:076][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.44.32:309][452]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.44.32:310][452]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharBB8A5A2C4F26FE42068605A55ABE84F3.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.44.32:326][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 3.59 sec)
+[2024.04.08-15.44.32:329][452]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.44.32:329][452]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.44.32:908][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.44.32:917][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-15.44.32:917][517]PIE: New page: PIE session: House (8 Apr 2024, 17:44:32)
+[2024.04.08-15.44.32:917][517]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.44.32:934][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016398s)
+[2024.04.08-15.44.32:934][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.016429s)
+[2024.04.08-15.44.32:949][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.08-15.44.32:952][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.44.32:952][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.44.32:952][517]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.44.32:953][517]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2024.04.08-15.44.32:953][517]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.44.32:953][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.44.32:953][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.44.32:953][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.44.32:953][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.44.32:953][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.44.32:955][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.44.32:979][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.44.32:979][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.44.32:979][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.44.32:979][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.44.32:980][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.08-15.44.32:980][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.08-15.44.32:981][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.08-15.44.32:981][517]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.08-15.44.32:981][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.08-15.44.32:981][517]LogAudio: Display: Audio Device (ID: 11) registered with world 'House'.
+[2024.04.08-15.44.32:981][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.08-15.44.33:005][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.44.33:005][517]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.44.33:007][517]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.44.33
+[2024.04.08-15.44.33:008][517]LogWorld: Bringing up level for play took: 0.001990
+[2024.04.08-15.44.33:010][517]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.08-15.44.33:018][517]PIE: Server logged in
+[2024.04.08-15.44.33:021][517]PIE: Play in editor total start time 0.104 seconds.
+[2024.04.08-15.44.33:022][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:032][517]LogViewport: Scene viewport resized to 2562x1390, mode Windowed.
+[2024.04.08-15.44.33:050][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:055][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:061][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:239][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:246][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:363][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:370][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:380][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:387][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:399][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.33:407][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.44.33:419][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.44.34:457][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.44.34:457][579]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.44.34:458][579]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.44.34:466][579]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.44.34:467][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.44.34:469][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.44.34:474][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.44.34:489][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-15.44.34:489][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.08-15.44.34:489][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.08-15.44.34:491][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.08-15.44.34:498][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.08-15.44.34:600][580]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.08-15.44.37:007][836]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.44.37:012][836]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.45.11:578][720]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.45.11:698][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.08-15.45.12:310][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.45.12:545][769]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.45.12:545][769]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharE99E638345A24ABA0790FEA16C7F2366.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.45.12:552][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 3.84 sec)
+[2024.04.08-15.45.12:554][769]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.45.12:554][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.45.13:322][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.45.13:330][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-15.45.13:330][842]PIE: New page: PIE session: House (8 Apr 2024, 17:45:13)
+[2024.04.08-15.45.13:330][842]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.45.13:347][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016298s)
+[2024.04.08-15.45.13:347][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.016330s)
+[2024.04.08-15.45.13:362][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.45.13:364][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.45.13:364][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.45.13:365][842]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.45.13:365][842]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2024.04.08-15.45.13:365][842]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.45.13:365][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.45.13:365][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.45.13:365][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.45.13:365][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.45.13:365][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.45.13:367][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.45.13:391][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.45.13:391][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.45.13:391][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.45.13:391][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.45.13:391][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.08-15.45.13:391][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.08-15.45.13:393][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.08-15.45.13:393][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.08-15.45.13:393][842]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.08-15.45.13:393][842]LogAudio: Display: Audio Device (ID: 12) registered with world 'House'.
+[2024.04.08-15.45.13:393][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.08-15.45.13:423][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.45.13:423][842]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.45.13:425][842]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.45.13
+[2024.04.08-15.45.13:425][842]LogWorld: Bringing up level for play took: 0.001813
+[2024.04.08-15.45.13:427][842]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.04.08-15.45.13:434][842]PIE: Server logged in
+[2024.04.08-15.45.13:436][842]PIE: Play in editor total start time 0.106 seconds.
+[2024.04.08-15.45.13:438][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.13:449][842]LogViewport: Scene viewport resized to 2564x1400, mode Windowed.
+[2024.04.08-15.45.13:467][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.45.13:471][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.13:482][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.45.13:654][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.13:663][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.45.13:748][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.13:757][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.45.13:788][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.13:798][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.45.13:828][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.45.14:457][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.45.14:457][875]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.45.14:457][875]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.45.14:462][875]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.45.14:462][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.45.14:464][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.45.14:470][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.45.14:486][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-15.45.14:486][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.08-15.45.14:486][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.08-15.45.14:487][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.08-15.45.14:495][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.45.14:602][876]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.08-15.45.16:501][ 66]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.45.16:507][ 66]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.45.23:257][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.08-15.45.25:397][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.08-15.45.28:647][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
