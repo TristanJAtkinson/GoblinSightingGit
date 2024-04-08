@@ -2918,3 +2918,12 @@ Script Stack (0 frames) :
 [2024.04.08-15.34.55:537][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2024.04.08-15.34.58:021][315]LogSlate: Window 'Message Log' being destroyed
 [2024.04.08-15.34.58:025][315]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.35.46:804][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.08-15.35.46:808][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.35.46:871][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.08-15.35.46:915][398]LogSavePackage: Moving output files for package: /Game/BluePrints/Maps/House
+[2024.04.08-15.35.46:916][398]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/House222DD35C40A0B075FA2A64956B78AEC3.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Maps/House.umap'
+[2024.04.08-15.35.46:924][398]LogFileHelpers: Saving map 'House' took 0.093
+[2024.04.08-15.35.46:929][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.25 sec)
+[2024.04.08-15.35.46:931][398]AssetCheck: New page: Asset Save: House
+[2024.04.08-15.35.46:931][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/BluePrints/Maps/House.House
