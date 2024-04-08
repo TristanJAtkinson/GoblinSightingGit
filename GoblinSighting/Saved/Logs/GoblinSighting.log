@@ -2927,3 +2927,128 @@ Script Stack (0 frames) :
 [2024.04.08-15.35.46:929][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.25 sec)
 [2024.04.08-15.35.46:931][398]AssetCheck: New page: Asset Save: House
 [2024.04.08-15.35.46:931][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/BluePrints/Maps/House.House
+[2024.04.08-15.36.28:818][599]LogEditorTransaction: Undo Move Node
+[2024.04.08-15.36.34:498][231]LogEditorTransaction: Undo Move Node
+[2024.04.08-15.36.34:868][240]LogEditorTransaction: Undo Create Reroute Node
+[2024.04.08-15.36.43:253][159]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.36.43:309][159]LogBlueprint: Error: [AssetLog] C:\Users\alios\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\BluePrints\Characters\BP_ActionChar.uasset: [Compiler] This blueprint (self) is not a BP_Vendingachine_Parent_C, therefore ' Target ' must have a connection.
+[2024.04.08-15.36.43:314][159]LogBlueprint: Error: [AssetLog] C:\Users\alios\Documents\Unreal Projects\GoblinSightingGit\GoblinSighting\Content\BluePrints\Characters\BP_ActionChar.uasset: [Compiler] Variable node  Get Upgrade MoveSpeed Amount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.04.08-15.36.43:364][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.08-15.36.51:232][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.08-15.36.51:237][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.36.51:462][ 19]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.36.51:463][ 19]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionCharA31ECC754DC7FAA717CFBFB159C68268.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.36.51:469][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 1.48 sec)
+[2024.04.08-15.36.51:472][ 19]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.36.51:472][ 19]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.36.52:430][123]BlueprintLog: New page: Compile BP_ActionChar
+[2024.04.08-15.36.52:545][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.08-15.36.52:886][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.36.53:149][140]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.36.53:149][140]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar4737984441EA1903AC3A3C8AE0007DF0.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.36.53:155][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 1.75 sec)
+[2024.04.08-15.36.53:158][140]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.36.53:158][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
+[2024.04.08-15.36.54:057][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.08-15.37.02:698][239]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.37.02:698][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.37.09:416][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent
+[2024.04.08-15.37.09:416][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.37.09:416][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.38.06:418][346]LogSlate: Took 0.004159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.08-15.38.24:147][418]BlueprintLog: New page: Compile BP_Vendingachine_Parent
+[2024.04.08-15.38.24:220][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.08-15.38.24:861][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.38.24:992][472]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/BP_Vendingachine_Parent
+[2024.04.08-15.38.24:992][472]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_Vendingachine_Parent1936590A49902EDFFBBB918252ACDF9E.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/BP_Vendingachine_Parent.uasset'
+[2024.04.08-15.38.24:998][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.89 sec)
+[2024.04.08-15.38.24:999][472]AssetCheck: New page: Asset Save: BP_Vendingachine_Parent
+[2024.04.08-15.38.24:999][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent
+[2024.04.08-15.38.25:924][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-15.38.25:933][582]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.08-15.38.25:938][582]LogPlayLevel: [PlayLevel] Compiling ABP_Shooter before play...
+[2024.04.08-15.38.25:942][582]LogPlayLevel: [PlayLevel]   Compiling BP_ActionChar as a dependent...
+[2024.04.08-15.38.26:094][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.08-15.38.26:097][582]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (2 blueprints)
+[2024.04.08-15.38.26:097][582]PIE: New page: PIE session: House (8 Apr 2024, 17:38:26)
+[2024.04.08-15.38.26:097][582]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.38.26:114][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016360s)
+[2024.04.08-15.38.26:114][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.016389s)
+[2024.04.08-15.38.26:126][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.08-15.38.26:127][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-15.38.26:127][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-15.38.26:128][582]LogAIModule: Creating AISystem for world House
+[2024.04.08-15.38.26:128][582]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2024.04.08-15.38.26:128][582]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-15.38.26:128][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-15.38.26:128][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-15.38.26:128][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-15.38.26:128][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-15.38.26:128][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-15.38.26:130][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-15.38.26:154][582]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-15.38.26:155][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-15.38.26:155][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-15.38.26:155][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-15.38.26:156][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.08-15.38.26:156][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.08-15.38.26:157][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.08-15.38.26:157][582]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.08-15.38.26:157][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.08-15.38.26:157][582]LogAudio: Display: Audio Device (ID: 8) registered with world 'House'.
+[2024.04.08-15.38.26:157][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.08-15.38.26:194][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.38.26:194][582]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.08-15.38.26:196][582]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.08-16.38.26
+[2024.04.08-15.38.26:197][582]LogWorld: Bringing up level for play took: 0.002027
+[2024.04.08-15.38.26:199][582]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.08-15.38.26:204][582]PIE: Server logged in
+[2024.04.08-15.38.26:204][582]PIE: Play in editor total start time 0.272 seconds.
+[2024.04.08-15.38.26:206][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.38.26:262][582]LogViewport: Scene viewport resized to 2556x1360, mode Windowed.
+[2024.04.08-15.38.26:281][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.38.26:514][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.38.26:529][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.08-15.38.26:531][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.08-15.38.29:897][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-15.38.29:897][770]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.08-15.38.29:898][770]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.08-15.38.29:905][770]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-15.38.29:906][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.38.29:908][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-15.38.29:913][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-15.38.29:927][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.08-15.38.29:927][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.08-15.38.29:929][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.08-15.38.29:936][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.08-15.38.30:050][771]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.08-15.38.33:588][162]LogSlate: Window 'Message Log' being destroyed
+[2024.04.08-15.38.58:199][995]BlueprintLog: New page: Compile BP_Vendingachine_Parent
+[2024.04.08-15.38.58:263][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.08-15.38.58:768][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.38.58:890][ 37]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/BP_Vendingachine_Parent
+[2024.04.08-15.38.58:890][ 37]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_Vendingachine_Parent66BC07B34979B85BACB9749819FC68FA.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/BP_Vendingachine_Parent.uasset'
+[2024.04.08-15.38.58:896][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 2.01 sec)
+[2024.04.08-15.38.58:897][ 37]AssetCheck: New page: Asset Save: BP_Vendingachine_Parent
+[2024.04.08-15.38.58:897][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent
+[2024.04.08-15.39.06:111][848]BlueprintLog: New page: Compile BP_Vendingachine_Parent
+[2024.04.08-15.39.06:177][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.08-15.39.06:864][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.39.06:994][916]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/BP_Vendingachine_Parent
+[2024.04.08-15.39.06:994][916]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_Vendingachine_ParentF8AED89D4E6C7F30BA34A38157971B70.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/BP_Vendingachine_Parent.uasset'
+[2024.04.08-15.39.07:000][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.15 sec)
+[2024.04.08-15.39.07:001][916]AssetCheck: New page: Asset Save: BP_Vendingachine_Parent
+[2024.04.08-15.39.07:001][916]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/BP_Vendingachine_Parent.BP_Vendingachine_Parent
+[2024.04.08-15.39.21:393][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.08-15.39.21:403][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.39.21:608][431]LogSavePackage: Moving output files for package: /Game/BluePrints/Characters/BP_ActionChar
+[2024.04.08-15.39.21:608][431]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_ActionChar4008CF8449A75316F73B899E1432C263.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset'
+[2024.04.08-15.39.21:615][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 2.36 sec)
+[2024.04.08-15.39.21:617][431]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.04.08-15.39.21:617][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Characters/BP_ActionChar.BP_ActionChar
