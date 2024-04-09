@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset",
+				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/MainMenu.umap",
+				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/WB_MainMenu.uasset",
 				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/BP_Vendingachine_Parent.uasset",
 				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/BP_Vending_Machine.uasset",
 				"C:/Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Characters/BP_ActionChar.uasset",
@@ -472,7 +475,6 @@
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/WB_PauseMenu.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/ThirdPersonTemplate/ThirdPerson/Input/Actions/IA_Pause.uasset",
-				"C:/Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Timer_Frame.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Filling/Filler_01.uasset",
 				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/GoblinSightingGit/GoblinSightingGit/GoblinSighting/Content/Assets/UIAssets/GameplayUI/Timer/Filling/Filler_02.uasset",
