@@ -1460,3 +1460,308 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.09-05.02.33:739][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/GM_Menu.GM_Menu
 [2024.04.09-05.02.33:740][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.09-05.02.33:740][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-05.06.45:549][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.09-05.06.46:926][571]LogSlate: Window 'Save Content' being destroyed
+[2024.04.09-05.06.47:523][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.04.09-05.06.48:426][601]LogSlate: Window 'Save Content' being destroyed
+[2024.04.09-05.06.48:439][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-05.06.48:636][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GM_Menu" FILE="../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/GM_Menu.uasset" SILENT=true
+[2024.04.09-05.06.48:646][601]LogSavePackage: Moving output files for package: /Game/BluePrints/GM_Menu
+[2024.04.09-05.06.48:647][601]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/GM_MenuC50950EE4FDF4D7B71DD19AA08EE19D1.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/GM_Menu.uasset'
+[2024.04.09-05.06.48:660][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 700 ms)
+[2024.04.09-05.06.49:311][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-05.06.49:333][601]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu
+[2024.04.09-05.06.49:335][601]LightingResults: New page: Lighting Build
+[2024.04.09-05.06.49:337][601]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.04.09-05.06.49:415][601]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-05.06.49:415][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-05.06.49:415][601]MapCheck: New page: Map Check
+[2024.04.09-05.06.49:415][601]LightingResults: New page: Lighting Build
+[2024.04.09-05.06.49:430][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-05.06.49:446][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.09-05.06.49:467][601]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-05.06.49:469][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-05.06.49:494][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.09-05.06.49:511][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.09-05.06.49:566][601]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.04.09-05.06.49:566][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-05.06.49:567][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-05.06.49:567][601]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.09-05.06.49:634][601]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-05.06.49:662][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.09-05.06.49:672][601]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-05.06.49:673][601]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.356ms to complete.
+[2024.04.09-05.06.49:693][601]AssetCheck: New page: Asset Save: GM_Menu
+[2024.04.09-05.06.49:693][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/GM_Menu.GM_Menu
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Total job queries 474, among them cache hits 313 (66.03%)
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Tracking 161 distinct input hashes that result in 111 distinct outputs (68.94%)
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: RAM used: 3.66 MiB of 819.20 MiB budget. Usage: 0.45%
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Shaders Compiled: 37
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Average time worker was idle: 70.13 s
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.44 s
+[2024.04.09-05.06.49:875][601]LogShaderCompilers: Display: Job life time (pending + execution): average 0.88 s, max 1.49
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Shader code size: average 38.442 KiB, min 28.887 KiB, max 70.504 KiB
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.76 s
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Average processing rate: 4.22 jobs/sec
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Total thread time: 17.819 s
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Total thread preprocess time: 1.934 s
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Percentage time preprocessing: 10.85%
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Effective parallelization: 2.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.68 sec, max 0.76 sec, min 0.59 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.48 sec, max 0.64 sec, min 0.37 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.43 sec, max 0.64 sec, min 0.33 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.38 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.67% of total time (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.65% of total time (compiled    8 times, average 0.48 sec, max 0.64 sec, min 0.37 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.16% of total time (compiled    8 times, average 0.43 sec, max 0.64 sec, min 0.33 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.86% of total time (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.38 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.73% of total time (compiled    6 times, average 0.23 sec, max 0.29 sec, min 0.19 sec)
+[2024.04.09-05.06.49:876][601]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.06.50:294][604]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.09-05.07.18:140][207]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.09-05.07.18:140][207]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.09-05.07.18:144][207]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.PointLight_0
+[2024.04.09-05.07.18:144][207]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.PointLight_0
+[2024.04.09-05.07.37:075][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.07.37:085][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.07.37:088][239]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2024.04.09-05.07.37:106][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.07.37:117][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.07.37:154][240]LogViewport: Scene viewport resized to 1787x993, mode Windowed.
+[2024.04.09-05.08.26:999][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.09.08:380][475]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.09-05.09.18:967][ 76]Cmd: EDIT COPY
+[2024.04.09-05.09.19:241][ 91]Cmd: EDIT PASTE
+[2024.04.09-05.09.49:882][775]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.10.39:636][590]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.11.03:592][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.09-05.11.49:937][522]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.11.53:715][746]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.09-05.11.58:294][999]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.09-05.11.58:294][999]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.09-05.11.58:298][999]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.DirectionalLight_0
+[2024.04.09-05.11.58:298][999]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.DirectionalLight_0
+[2024.04.09-05.12.01:432][158]Cmd: DELETE
+[2024.04.09-05.12.01:432][158]Cmd: ACTOR DELETE
+[2024.04.09-05.12.01:452][158]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.04.09-05.12.01:475][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.09-05.12.01:483][158]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.04.09-05.12.09:241][598]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.04.09-05.12.09:241][598]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.04.09-05.12.12:471][780]Cmd: DELETE
+[2024.04.09-05.12.12:471][780]Cmd: ACTOR DELETE
+[2024.04.09-05.12.12:486][780]LogEditorActor: Deleted Actor: SpotLight
+[2024.04.09-05.12.12:505][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.04.09-05.12.12:508][780]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.04.09-05.12.15:575][947]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.12.15:575][947]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.12.34:704][982]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Total job queries 552, among them cache hits 368 (66.67%)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Tracking 179 distinct input hashes that result in 128 distinct outputs (71.51%)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: RAM used: 4.08 MiB of 819.20 MiB budget. Usage: 0.50%
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Shaders Compiled: 39
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Jobs assigned 44, completed 39 (88.64%)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Average time worker was idle: 244.37 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.47 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.52
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Shader code size: average 38.718 KiB, min 4.477 KiB, max 83.438 KiB
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.19 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Average processing rate: 3.48 jobs/sec
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Total thread time: 18.79 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Total thread preprocess time: 2.055 s
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Percentage time preprocessing: 10.93%
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Effective parallelization: 1.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.68 sec, max 0.76 sec, min 0.59 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.48 sec, max 0.64 sec, min 0.37 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.46 sec, max 0.69 sec, min 0.33 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.38 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.29% of total time (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.82% of total time (compiled    9 times, average 0.46 sec, max 0.69 sec, min 0.33 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.53% of total time (compiled    8 times, average 0.48 sec, max 0.64 sec, min 0.37 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.15% of total time (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.38 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.33% of total time (compiled    6 times, average 0.23 sec, max 0.29 sec, min 0.19 sec)
+[2024.04.09-05.12.39:590][244]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.13.06:074][456]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2024.04.09-05.13.06:078][456]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2024.04.09-05.13.17:318][ 96]Cmd: DELETE
+[2024.04.09-05.13.17:318][ 96]Cmd: ACTOR DELETE
+[2024.04.09-05.13.17:334][ 96]LogEditorActor: Deleted Actor: RectLight
+[2024.04.09-05.13.17:355][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.04.09-05.13.17:362][ 96]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.04.09-05.14.54:170][ 11]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.14.54:170][ 11]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.15.23:819][484]Cmd: DELETE
+[2024.04.09-05.15.23:821][484]Cmd: ACTOR DELETE
+[2024.04.09-05.15.23:841][484]LogEditorActor: Deleted Actor: RectLight
+[2024.04.09-05.15.23:859][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.09-05.15.23:863][484]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.04.09-05.15.39:563][334]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.15.56:795][179]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.16.11:284][ 31]Cmd: EDIT COPY
+[2024.04.09-05.16.11:534][ 46]Cmd: EDIT PASTE
+[2024.04.09-05.16.41:507][619]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.17.06:072][936]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.17.50:716][ 57]Cmd: EDIT COPY
+[2024.04.09-05.17.50:915][ 65]Cmd: EDIT PASTE
+[2024.04.09-05.19.26:487][450]Cmd: TRANSACTION UNDO
+[2024.04.09-05.19.26:487][450]LogEditorTransaction: Undo Move Elements
+[2024.04.09-05.19.37:994][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Total job queries 561, among them cache hits 376 (67.02%)
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 132 distinct outputs (71.35%)
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: RAM used: 4.22 MiB of 819.20 MiB budget. Usage: 0.52%
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Shaders Compiled: 45
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Jobs assigned 45, completed 45 (100%)
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Average time worker was idle: 248.83 s
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.47 s
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 1.52
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Shader code size: average 38.074 KiB, min 4.477 KiB, max 83.438 KiB
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.63 s
+[2024.04.09-05.19.39:270][ 96]LogShaderCompilers: Display: Jobs were issued in 45 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Average processing rate: 3.56 jobs/sec
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Total thread time: 22.429 s
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Total thread preprocess time: 2.427 s
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Percentage time preprocessing: 10.82%
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.68 sec, max 0.76 sec, min 0.59 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 0.51 sec, max 0.68 sec, min 0.37 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.48 sec, max 0.69 sec, min 0.33 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.56% of total time (compiled   11 times, average 0.48 sec, max 0.69 sec, min 0.33 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.92% of total time (compiled   10 times, average 0.51 sec, max 0.68 sec, min 0.37 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.19% of total time (compiled    6 times, average 0.79 sec, max 0.93 sec, min 0.70 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.01% of total time (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.38 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.14% of total time (compiled    6 times, average 0.23 sec, max 0.29 sec, min 0.19 sec)
+[2024.04.09-05.19.39:271][ 96]LogShaderCompilers: Display: ================================================
+[2024.04.09-05.20.04:847][342]Cmd: DELETE
+[2024.04.09-05.20.04:847][342]Cmd: ACTOR DELETE
+[2024.04.09-05.20.04:865][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.09-05.20.04:890][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.09-05.20.04:902][342]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.04.09-05.20.06:178][415]LogStaticMesh: Display: Building static mesh SM_Scifi_Cable_02...
+[2024.04.09-05.20.06:205][415]LogStaticMesh: Built static mesh [0.03s] /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.06:370][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.06:370][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.06:372][416]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_3
+[2024.04.09-05.20.07:181][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.07:181][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.07:184][454]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_4
+[2024.04.09-05.20.41:972][988]Cmd: DELETE
+[2024.04.09-05.20.41:972][988]Cmd: ACTOR DELETE
+[2024.04.09-05.20.41:988][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.09-05.20.42:009][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.09-05.20.42:014][988]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.04.09-05.20.43:653][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01
+[2024.04.09-05.20.43:653][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01
+[2024.04.09-05.20.43:655][ 62]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_5
+[2024.04.09-05.20.44:435][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01
+[2024.04.09-05.20.44:435][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01
+[2024.04.09-05.20.44:438][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_01.SM_Scifi_Cable_01 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_6
+[2024.04.09-05.20.54:115][551]Cmd: DELETE
+[2024.04.09-05.20.54:115][551]Cmd: ACTOR DELETE
+[2024.04.09-05.20.54:130][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.09-05.20.54:152][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.09-05.20.54:158][551]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.04.09-05.20.55:701][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.55:701][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.55:702][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_7
+[2024.04.09-05.20.57:183][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.57:183][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.20.57:186][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_8
+[2024.04.09-05.21.02:742][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.02:742][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.02:743][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_9
+[2024.04.09-05.21.04:256][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.04:256][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.04:259][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_10
+[2024.04.09-05.21.09:792][307]Cmd: EDIT COPY
+[2024.04.09-05.21.10:007][316]Cmd: EDIT PASTE
+[2024.04.09-05.21.16:329][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.16:329][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.16:330][585]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_12
+[2024.04.09-05.21.17:723][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.17:723][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02
+[2024.04.09-05.21.17:727][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Cable_02.SM_Scifi_Cable_02 as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_13
+[2024.04.09-05.22.07:872][885]Cmd: EDIT COPY
+[2024.04.09-05.22.08:095][892]Cmd: EDIT PASTE
+[2024.04.09-05.22.19:938][422]Cmd: EDIT COPY
+[2024.04.09-05.22.20:132][432]Cmd: EDIT PASTE
+[2024.04.09-05.22.41:972][404]Cmd: DELETE
+[2024.04.09-05.22.41:972][404]Cmd: ACTOR DELETE
+[2024.04.09-05.22.41:988][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.09-05.22.42:012][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.04.09-05.22.42:017][404]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2024.04.09-05.23.36:656][159]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.24.01:366][434]LogEditorViewport: Clicking Background
+[2024.04.09-05.24.21:622][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope
+[2024.04.09-05.24.21:622][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope
+[2024.04.09-05.24.21:624][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_16
+[2024.04.09-05.24.26:111][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope
+[2024.04.09-05.24.26:111][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope
+[2024.04.09-05.24.26:114][644]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArtAssets/SpaceshipInterior/Meshes/SM_Scifi_Hangingrope.SM_Scifi_Hangingrope as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_17
+[2024.04.09-05.24.27:114][697]Cmd: DELETE
+[2024.04.09-05.24.27:114][697]Cmd: ACTOR DELETE
+[2024.04.09-05.24.27:129][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.09-05.24.27:153][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.04.09-05.24.27:160][697]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.04.09-05.24.40:833][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.24.40:845][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.24.40:857][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.24.40:869][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-05.24.40:895][403]LogViewport: Scene viewport resized to 1787x1158, mode Windowed.
+[2024.04.09-05.24.51:184][971]Cmd: DELETE
+[2024.04.09-05.24.51:185][971]Cmd: ACTOR DELETE
+[2024.04.09-05.24.51:199][971]LogEditorActor: Deleted Actor: SpotLight
+[2024.04.09-05.24.51:219][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.09-05.24.51:227][971]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.04.09-05.25.07:897][889]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.25.07:897][889]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.04.09-05.25.41:924][695]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.26.26:996][104]Cmd: DELETE
+[2024.04.09-05.26.26:996][104]Cmd: ACTOR DELETE
+[2024.04.09-05.26.27:009][104]LogEditorActor: Deleted Actor: RectLight
+[2024.04.09-05.26.27:029][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.04.09-05.26.27:034][104]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.04.09-05.26.45:833][169]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.26.46:253][191]LogEditorViewport: Clicking Background
+[2024.04.09-05.27.24:344][202]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.27.46:847][466]Cmd: EDIT COPY
+[2024.04.09-05.27.47:130][481]Cmd: EDIT PASTE
+[2024.04.09-05.28.38:486][218]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.29.43:839][583]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.04.09-05.29.43:839][583]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.04.09-05.30.11:814][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.30.57:408][538]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.31.17:574][586]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-05.32.06:437][ 27]LogEditorViewport: Clicking Background
+[2024.04.09-05.32.13:951][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-05.32.14:149][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.04.09-05.32.14:531][413]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu
+[2024.04.09-05.32.14:532][413]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/MainMenu03B4030E4DF7899121CF6683254E7C6F.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/MainMenu.umap'
+[2024.04.09-05.32.14:553][413]LogFileHelpers: Saving map 'MainMenu' took 0.459
+[2024.04.09-05.32.14:576][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 625 ms (total: 1.32 sec)
+[2024.04.09-05.32.14:582][413]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.09-05.32.14:583][413]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/MainMenu.MainMenu
