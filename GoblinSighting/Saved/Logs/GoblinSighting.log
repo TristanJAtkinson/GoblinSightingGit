@@ -1328,3 +1328,54 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.04.12-23.56.43:128][623]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/Timer_Frame__5_.Timer_Frame__5_ (BGRA8, 1567x237 x1x1x1) (Required Memory Estimate: 10.923855 MB), EncodeSpeed: Fast
 [2024.04.12-23.56.47:512][821]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/Timer_Frame__6_.Timer_Frame__6_ (BGRA8, 1567x237 x1x1x1) (Required Memory Estimate: 10.923855 MB), EncodeSpeed: Fast
 [2024.04.12-23.56.51:038][967]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/Timer_Frame__7_.Timer_Frame__7_ (BGRA8, 1567x237 x1x1x1) (Required Memory Estimate: 10.923855 MB), EncodeSpeed: Fast
+[2024.04.13-00.04.05:034][536]LogEditorTransaction: Undo Move Node
+[2024.04.13-00.04.06:617][588]LogEditorTransaction: Undo Add Node
+[2024.04.13-00.05.03:416][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.04.13-00.05.03:419][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/Maps/House' took 0.023
+[2024.04.13-00.05.03:420][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Widgets/Wb_HUD] ([2] browsable assets)...
+[2024.04.13-00.05.03:425][770]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD]
+[2024.04.13-00.05.03:425][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Widgets/Wb_HUD]
+[2024.04.13-00.05.03:512][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto2
+[2024.04.13-00.05.03:514][770]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD_Auto23B002982418F92B091E9E2B714E676B7.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto2.uasset'
+[2024.04.13-00.05.03:516][770]LogFileHelpers: Auto-saving content packages took 0.097
+[2024.04.13-00.15.03:788][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.13-00.15.03:791][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/Maps/House' took 0.020
+[2024.04.13-00.15.03:791][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Widgets/Wb_HUD] ([2] browsable assets)...
+[2024.04.13-00.15.03:797][407]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD]
+[2024.04.13-00.15.03:797][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Widgets/Wb_HUD]
+[2024.04.13-00.15.03:886][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto3
+[2024.04.13-00.15.03:887][407]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD_Auto39A72683140163FD40FCEC88D07244747.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto3.uasset'
+[2024.04.13-00.15.03:890][407]LogFileHelpers: Auto-saving content packages took 0.098
+[2024.04.13-00.20.11:202][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-00.20.11:451][231]LogSavePackage: Moving output files for package: /Game/BluePrints/Widgets/Wb_HUD
+[2024.04.13-00.20.11:453][231]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD2FCF0FDC44BCDA3EB6FACEB3A054B405.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset'
+[2024.04.13-00.20.11:477][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms
+[2024.04.13-00.20.11:496][231]AssetCheck: New page: Asset Save: Wb_HUD
+[2024.04.13-00.20.11:497][231]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD
+[2024.04.13-00.21.44:678][365]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.13-00.21.44:678][365]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.13-00.24.48:612][177]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.13-00.25.18:063][827]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/DifficultyIcons/Enemy_01__Easy_Level_.Enemy_01__Easy_Level_ (BGRA8, 270x270 x1x1x1) (Required Memory Estimate: 2.194534 MB), EncodeSpeed: Fast
+[2024.04.13-00.26.12:005][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.04.13-00.26.12:009][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/Maps/House' took 0.051
+[2024.04.13-00.26.12:011][539]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Widgets/Wb_HUD] ([2] browsable assets)...
+[2024.04.13-00.26.12:015][539]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD]
+[2024.04.13-00.26.12:015][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Widgets/Wb_HUD]
+[2024.04.13-00.26.12:105][539]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto4
+[2024.04.13-00.26.12:106][539]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD_Auto448B56D7F42BAC437720646B0F737A2BF.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto4.uasset'
+[2024.04.13-00.26.12:108][539]LogFileHelpers: Auto-saving content packages took 0.099
+[2024.04.13-00.28.39:113][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-00.28.39:363][795]LogSavePackage: Moving output files for package: /Game/BluePrints/Widgets/Wb_HUD
+[2024.04.13-00.28.39:365][795]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUDB3EB9BFA4E28E4089F2E50960A9B443E.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset'
+[2024.04.13-00.28.39:381][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 542 ms)
+[2024.04.13-00.28.39:384][795]AssetCheck: New page: Asset Save: Wb_HUD
+[2024.04.13-00.28.39:384][795]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD
+[2024.04.13-00.30.58:989][455]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/DifficultyIcons/Enemy_02.Enemy_02 (BGRA8, 270x270 x1x1x1) (Required Memory Estimate: 2.194534 MB), EncodeSpeed: Fast
+[2024.04.13-00.31.01:811][582]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/DifficultyIcons/Enemy_03.Enemy_03 (BGRA8, 270x270 x1x1x1) (Required Memory Estimate: 2.194534 MB), EncodeSpeed: Fast
+[2024.04.13-00.31.04:211][683]LogTexture: Display: Building textures: /Game/Assets/UIAssets/GameplayUI/Timer/DifficultyIcons/Enemy_04__Hardest_.Enemy_04__Hardest_ (BGRA8, 270x270 x1x1x1) (Required Memory Estimate: 2.194534 MB), EncodeSpeed: Fast
+[2024.04.13-00.31.11:374][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-00.31.11:612][ 10]LogSavePackage: Moving output files for package: /Game/BluePrints/Widgets/Wb_HUD
+[2024.04.13-00.31.11:614][ 10]LogSavePackage: Moving '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Saved/Wb_HUDF29A270A4152EA52897D06B6EFC68F99.tmp' to '../../../../../../Users/misak/OneDrive/Documents/GitHub/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset'
+[2024.04.13-00.31.11:630][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 798 ms)
+[2024.04.13-00.31.11:635][ 10]AssetCheck: New page: Asset Save: Wb_HUD
+[2024.04.13-00.31.11:635][ 10]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD
