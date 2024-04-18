@@ -4146,3 +4146,1378 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-14.26.09:832][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.86 sec)
 [2024.04.18-14.26.09:835][919]AssetCheck: New page: Asset Save: Wb_HUD
 [2024.04.18-14.26.09:835][919]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD
+[2024.04.18-14.27.50:254][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.27.50:264][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-14.27.50:264][442]PIE: New page: PIE session: House (18 Apr 2024, 16:27:50)
+[2024.04.18-14.27.50:264][442]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.27.50:283][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018495s)
+[2024.04.18-14.27.50:283][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.018528s)
+[2024.04.18-14.27.50:297][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.18-14.27.50:299][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.27.50:299][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.27.50:300][442]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.27.50:300][442]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2024.04.18-14.27.50:300][442]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.27.50:300][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.27.50:300][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.27.50:301][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.27.50:301][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.27.50:301][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.27.50:302][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.27.50:322][442]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.27.50:322][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.27.50:322][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.27.50:322][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.27.50:323][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.18-14.27.50:323][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.18-14.27.50:324][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.18-14.27.50:324][442]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.18-14.27.50:324][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.18-14.27.50:324][442]LogAudio: Display: Audio Device (ID: 19) registered with world 'House'.
+[2024.04.18-14.27.50:324][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.18-14.27.50:326][442]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.27.50:329][442]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.27.50
+[2024.04.18-14.27.50:329][442]LogWorld: Bringing up level for play took: 0.002553
+[2024.04.18-14.27.50:331][442]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.04.18-14.27.50:336][442]PIE: Server logged in
+[2024.04.18-14.27.50:337][442]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.18-14.27.50:338][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:344][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:360][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:365][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:464][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:469][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:488][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:493][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:497][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:501][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:508][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:512][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:534][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:538][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:568][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:572][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:578][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:582][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:589][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:593][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:602][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:606][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:641][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:645][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:653][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:657][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:665][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:668][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:677][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:682][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:688][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:693][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:702][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:706][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:713][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:717][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:727][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.50:731][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.27.50:739][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.27.57:242][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.27.57:243][979]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.27.57:243][979]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.27.57:243][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.27.57:246][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.27.57:251][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.27.57:263][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-14.27.57:263][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.18-14.27.57:264][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.18-14.27.57:265][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.18-14.27.57:268][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.27.57:272][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.18-14.27.57:411][980]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.04.18-14.27.59:881][ 97]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.27.59:906][ 97]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.06:912][808]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.31.06:921][808]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.18-14.31.06:924][808]LogPlayLevel: [PlayLevel] Compiling cage_prototype before play...
+[2024.04.18-14.31.07:008][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.18-14.31.07:010][808]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2024.04.18-14.31.07:010][808]PIE: New page: PIE session: House (18 Apr 2024, 16:31:07)
+[2024.04.18-14.31.07:010][808]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.07:028][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017834s)
+[2024.04.18-14.31.07:028][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.017867s)
+[2024.04.18-14.31.07:042][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.18-14.31.07:043][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.31.07:043][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.31.07:044][808]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.31.07:044][808]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.04.18-14.31.07:044][808]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.31.07:044][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.31.07:044][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.31.07:044][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.31.07:044][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.31.07:044][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.31.07:046][808]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.31.07:066][808]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.31.07:066][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.31.07:066][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.31.07:066][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.31.07:067][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.18-14.31.07:067][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.18-14.31.07:069][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.18-14.31.07:069][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.18-14.31.07:069][808]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.18-14.31.07:069][808]LogAudio: Display: Audio Device (ID: 20) registered with world 'House'.
+[2024.04.18-14.31.07:069][808]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.18-14.31.07:137][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.07:137][808]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.31.07:140][808]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.31.07
+[2024.04.18-14.31.07:140][808]LogWorld: Bringing up level for play took: 0.002851
+[2024.04.18-14.31.07:143][808]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.04.18-14.31.07:148][808]PIE: Server logged in
+[2024.04.18-14.31.07:148][808]PIE: Play in editor total start time 0.227 seconds.
+[2024.04.18-14.31.07:149][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.07:185][808]LogViewport: Scene viewport resized to 1933x1051, mode Windowed.
+[2024.04.18-14.31.07:208][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.07:384][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.07:391][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.07:398][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.07:404][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.07:500][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.11:632][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.11:632][ 55]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.11:633][ 55]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.18-14.31.11:637][ 55]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.31.11:638][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.11:640][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.31.11:646][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.11:660][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.18-14.31.11:660][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.18-14.31.11:662][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.18-14.31.11:669][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.18-14.31.11:771][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.04.18-14.31.13:881][273]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.13:886][273]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.36:521][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.31.36:530][817]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.18-14.31.36:533][817]LogPlayLevel: [PlayLevel] Compiling cage_prototype before play...
+[2024.04.18-14.31.36:618][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.18-14.31.36:620][817]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2024.04.18-14.31.36:620][817]PIE: New page: PIE session: House (18 Apr 2024, 16:31:36)
+[2024.04.18-14.31.36:620][817]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.36:639][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018498s)
+[2024.04.18-14.31.36:639][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.018529s)
+[2024.04.18-14.31.36:652][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.18-14.31.36:653][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.31.36:653][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.31.36:653][817]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.31.36:654][817]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2024.04.18-14.31.36:654][817]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.31.36:654][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.31.36:654][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.31.36:654][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.31.36:654][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.31.36:654][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.31.36:656][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.31.36:675][817]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.31.36:675][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.31.36:675][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.31.36:675][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.31.36:676][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.18-14.31.36:676][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.18-14.31.36:677][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.18-14.31.36:677][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.18-14.31.36:678][817]LogInit: FAudioDevice initialized with ID 21.
+[2024.04.18-14.31.36:678][817]LogAudio: Display: Audio Device (ID: 21) registered with world 'House'.
+[2024.04.18-14.31.36:678][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.18-14.31.36:717][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.36:718][817]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.31.36:721][817]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.31.36
+[2024.04.18-14.31.36:721][817]LogWorld: Bringing up level for play took: 0.003320
+[2024.04.18-14.31.36:724][817]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.04.18-14.31.36:729][817]PIE: Server logged in
+[2024.04.18-14.31.36:730][817]PIE: Play in editor total start time 0.199 seconds.
+[2024.04.18-14.31.36:731][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.36:765][817]LogViewport: Scene viewport resized to 1935x1061, mode Windowed.
+[2024.04.18-14.31.36:786][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.36:959][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.36:964][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.36:970][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.36:976][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.37:025][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.42:882][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.42:882][178]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.42:883][178]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.18-14.31.42:887][178]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.31.42:888][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.42:890][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.31.42:897][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.42:911][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.18-14.31.42:912][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.18-14.31.42:913][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.18-14.31.42:920][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.18-14.31.43:028][179]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.04.18-14.31.44:961][378]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.44:965][378]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.48:450][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.48:450][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.48:455][576]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_4
+[2024.04.18-14.31.48:459][576]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_4
+[2024.04.18-14.31.49:061][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.49:061][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.49:067][590]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_5
+[2024.04.18-14.31.49:072][590]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_5
+[2024.04.18-14.31.49:672][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.49:672][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.49:677][609]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_6
+[2024.04.18-14.31.49:681][609]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_6
+[2024.04.18-14.31.50:177][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.50:177][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype_C
+[2024.04.18-14.31.50:183][621]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_7
+[2024.04.18-14.31.50:188][621]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype as actor: cage_prototype_C /Game/BluePrints/Maps/House.House:PersistentLevel.cage_prototype_C_7
+[2024.04.18-14.31.51:041][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.31.51:051][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-14.31.51:051][658]PIE: New page: PIE session: House (18 Apr 2024, 16:31:51)
+[2024.04.18-14.31.51:051][658]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.51:072][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020077s)
+[2024.04.18-14.31.51:072][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.020109s)
+[2024.04.18-14.31.51:087][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.18-14.31.51:092][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.31.51:092][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.31.51:092][658]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.31.51:093][658]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.04.18-14.31.51:093][658]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.31.51:093][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.31.51:093][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.31.51:093][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.31.51:093][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.31.51:093][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.31.51:095][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.31.51:114][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.31.51:114][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.31.51:114][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.31.51:114][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.31.51:115][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.04.18-14.31.51:115][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.04.18-14.31.51:117][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.04.18-14.31.51:117][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.04.18-14.31.51:117][658]LogInit: FAudioDevice initialized with ID 22.
+[2024.04.18-14.31.51:117][658]LogAudio: Display: Audio Device (ID: 22) registered with world 'House'.
+[2024.04.18-14.31.51:117][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.18-14.31.51:119][658]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.31.51:122][658]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.31.51
+[2024.04.18-14.31.51:122][658]LogWorld: Bringing up level for play took: 0.002906
+[2024.04.18-14.31.51:124][658]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.04.18-14.31.51:129][658]PIE: Server logged in
+[2024.04.18-14.31.51:129][658]PIE: Play in editor total start time 0.078 seconds.
+[2024.04.18-14.31.51:131][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:139][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:155][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:159][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:242][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:245][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:270][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:274][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:279][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:283][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:316][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:320][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:329][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:332][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:366][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:370][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:378][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:382][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:391][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:394][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:403][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:407][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:416][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:420][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:429][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:433][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:442][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:445][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:453][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:458][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:466][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:470][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:481][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:485][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:494][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:498][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:507][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.51:510][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.31.51:520][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.31.55:453][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.55:453][948]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.31.55:453][948]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.31.55:453][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.55:456][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.31.55:462][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.31.55:473][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.31.55:474][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.18-14.31.55:474][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.18-14.31.55:476][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.18-14.31.55:483][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.18-14.31.55:622][949]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.04.18-14.31.57:773][ 29]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.31.57:802][ 29]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.32.11:422][613]Cmd: DELETE
+[2024.04.18-14.32.11:422][613]Cmd: ACTOR DELETE
+[2024.04.18-14.32.11:431][613]LogEditorActor: Deleted Actor: cage_prototype_C
+[2024.04.18-14.32.11:447][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.18-14.32.11:451][613]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.04.18-14.32.12:068][645]Cmd: DELETE
+[2024.04.18-14.32.12:068][645]Cmd: ACTOR DELETE
+[2024.04.18-14.32.12:072][645]LogEditorActor: Deleted Actor: cage_prototype_C
+[2024.04.18-14.32.12:089][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.18-14.32.12:092][645]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.18-14.32.14:687][809]Cmd: DUPLICATE
+[2024.04.18-14.32.14:687][809]Cmd: ACTOR DUPLICATE
+[2024.04.18-14.32.14:732][809]LogClass: Warning: Short type name "cage_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.18-14.32.14:743][809]LogClass: Warning: Short type name "cage_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.18-14.32.21:846][139]Cmd: DUPLICATE
+[2024.04.18-14.32.21:846][139]Cmd: ACTOR DUPLICATE
+[2024.04.18-14.32.21:880][139]LogClass: Warning: Short type name "cage_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.18-14.32.21:891][139]LogClass: Warning: Short type name "cage_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.18-14.32.24:495][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.32.24:505][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-14.32.24:505][238]PIE: New page: PIE session: House (18 Apr 2024, 16:32:24)
+[2024.04.18-14.32.24:505][238]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.32.24:525][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019621s)
+[2024.04.18-14.32.24:525][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.019654s)
+[2024.04.18-14.32.24:540][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.18-14.32.24:545][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.32.24:545][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.32.24:546][238]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.32.24:546][238]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2024.04.18-14.32.24:546][238]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.32.24:546][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.32.24:546][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.32.24:547][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.32.24:547][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.32.24:547][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.32.24:548][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.32.24:567][238]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.32.24:567][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.32.24:567][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.32.24:567][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.32.24:568][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.04.18-14.32.24:568][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.04.18-14.32.24:570][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.04.18-14.32.24:570][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.04.18-14.32.24:570][238]LogInit: FAudioDevice initialized with ID 23.
+[2024.04.18-14.32.24:570][238]LogAudio: Display: Audio Device (ID: 23) registered with world 'House'.
+[2024.04.18-14.32.24:570][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.18-14.32.24:572][238]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.32.24:575][238]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.32.24
+[2024.04.18-14.32.24:575][238]LogWorld: Bringing up level for play took: 0.002933
+[2024.04.18-14.32.24:577][238]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.04.18-14.32.24:582][238]PIE: Server logged in
+[2024.04.18-14.32.24:582][238]PIE: Play in editor total start time 0.077 seconds.
+[2024.04.18-14.32.24:584][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:590][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:608][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:615][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:703][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:707][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:735][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:740][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:751][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:755][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:765][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:769][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:779][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:783][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:792][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:797][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:810][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:813][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:839][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:844][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:853][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:858][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:869][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:874][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:884][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:888][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:898][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:902][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:912][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:916][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:925][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:930][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:939][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:944][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:954][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:958][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:967][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.24:972][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.24:981][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.32:472][791]LogBlueprintUserMessages: [BP_EnemySpawner_C_4] Mailer Spawned
+[2024.04.18-14.32.34:293][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.32.34:293][935]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.32.34:293][935]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.32.34:294][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.32.34:297][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.32.34:303][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.32.34:316][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-14.32.34:316][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.18-14.32.34:316][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.18-14.32.34:318][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.18-14.32.34:321][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.32.34:325][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.18-14.32.34:468][936]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.04.18-14.32.36:542][ 11]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.32.36:572][ 11]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.32.38:309][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.32.38:319][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-14.32.38:319][156]PIE: New page: PIE session: House (18 Apr 2024, 16:32:38)
+[2024.04.18-14.32.38:319][156]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.32.38:337][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018322s)
+[2024.04.18-14.32.38:337][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.018354s)
+[2024.04.18-14.32.38:350][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.18-14.32.38:352][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.32.38:353][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.32.38:353][156]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.32.38:353][156]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2024.04.18-14.32.38:353][156]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.32.38:353][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.32.38:354][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.32.38:354][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.32.38:354][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.32.38:354][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.32.38:356][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.32.38:375][156]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.32.38:375][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.32.38:375][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.32.38:375][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.32.38:375][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.04.18-14.32.38:375][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.04.18-14.32.38:377][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.04.18-14.32.38:377][156]LogInit: FAudioDevice initialized with ID 24.
+[2024.04.18-14.32.38:377][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.04.18-14.32.38:377][156]LogAudio: Display: Audio Device (ID: 24) registered with world 'House'.
+[2024.04.18-14.32.38:377][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.18-14.32.38:401][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.32.38:401][156]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.32.38:405][156]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.32.38
+[2024.04.18-14.32.38:405][156]LogWorld: Bringing up level for play took: 0.003007
+[2024.04.18-14.32.38:407][156]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.04.18-14.32.38:413][156]PIE: Server logged in
+[2024.04.18-14.32.38:414][156]PIE: Play in editor total start time 0.095 seconds.
+[2024.04.18-14.32.38:415][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:422][156]LogViewport: Scene viewport resized to 1937x1071, mode Windowed.
+[2024.04.18-14.32.38:443][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:446][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:452][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:571][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:577][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:635][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:642][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:649][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:656][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:664][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:671][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:679][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:685][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:696][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:702][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:713][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:719][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:729][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:736][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:745][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:751][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:760][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:767][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:777][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.38:782][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.32.38:846][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.32.45:183][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.32.45:183][530]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.32.45:183][530]LogSlate: Window 'GoblinSighting Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.18-14.32.45:194][530]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.32.45:194][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.32.45:196][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.32.45:202][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.32.45:216][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.18-14.32.45:216][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.18-14.32.45:218][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.18-14.32.45:225][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.18-14.32.45:362][531]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.04.18-14.32.47:539][759]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.32.47:544][759]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.33.42:928][129]BlueprintLog: New page: Compile cage_prototype
+[2024.04.18-14.33.42:982][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.18-14.33.43:682][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-14.33.43:791][196]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/Door/cage_prototype
+[2024.04.18-14.33.43:792][196]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/cage_prototypeBEA8932D4254D3FC8B9E4BB5B37820CF.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/Door/cage_prototype.uasset'
+[2024.04.18-14.33.43:799][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1.98 sec)
+[2024.04.18-14.33.43:800][196]AssetCheck: New page: Asset Save: cage_prototype
+[2024.04.18-14.33.43:800][196]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype
+[2024.04.18-14.34.04:270][588]BlueprintLog: New page: Compile cage_prototype
+[2024.04.18-14.34.04:328][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.18-14.34.04:822][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-14.34.04:944][626]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/Door/cage_prototype
+[2024.04.18-14.34.04:944][626]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/cage_prototype376BA8BF4AF7D096FBF296A7FFB8907F.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/Door/cage_prototype.uasset'
+[2024.04.18-14.34.04:951][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.11 sec)
+[2024.04.18-14.34.04:953][626]AssetCheck: New page: Asset Save: cage_prototype
+[2024.04.18-14.34.04:953][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/Door/cage_prototype.cage_prototype
+[2024.04.18-14.34.29:629][ 32]Cmd: DELETE
+[2024.04.18-14.34.29:629][ 32]Cmd: ACTOR DELETE
+[2024.04.18-14.34.29:634][ 32]LogEditorActor: Deleted Actor: BP_GoblinCage_Child_C
+[2024.04.18-14.34.29:655][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.18-14.34.29:660][ 32]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.04.18-14.34.35:134][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Interactables/Door/BP_GoblinCage_Child.BP_GoblinCage_Child
+[2024.04.18-14.34.35:134][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.34.35:134][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.34.36:954][477]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.34.36:954][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.34.45:100][902]LogContentBrowser: Attempting asset rename: BP_GoblinCage_Child -> BP_GoblinCage_Child
+[2024.04.18-14.34.46:208][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.18-14.34.57:793][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.18-14.34.57:808][948]LogAutomationController: Ignoring very large delta of 11.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-14.35.00:901][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.18-14.35.00:952][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Maps/House_Auto2
+[2024.04.18-14.35.00:953][ 98]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/House_Auto2EB814F214FE71D3F040E76916CCF6066.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Maps/House_Auto2.umap'
+[2024.04.18-14.35.00:958][ 98]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Maps/House_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.18-14.35.00:958][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/Maps/House' took 0.070
+[2024.04.18-14.35.00:958][ 98]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2024.04.18-14.35.00:959][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Widgets/Wb_HUD] ([2] browsable assets)...
+[2024.04.18-14.35.00:964][ 98]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD]
+[2024.04.18-14.35.00:964][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Widgets/Wb_HUD]
+[2024.04.18-14.35.01:077][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto2
+[2024.04.18-14.35.01:077][ 98]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD_Auto26BAB05264119A37C31475784A68828CD.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Widgets/Wb_HUD_Auto2.uasset'
+[2024.04.18-14.35.01:082][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent] ([2] browsable assets)...
+[2024.04.18-14.35.01:089][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent.BP_PurchasableDoor_Parent]
+[2024.04.18-14.35.01:090][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent]
+[2024.04.18-14.35.01:108][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent_Auto2
+[2024.04.18-14.35.01:108][ 98]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_PurchasableDoor_Parent_Auto2E86FE0A449B3E263784775AB8784DA08.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Autosaves/Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent_Auto2.uasset'
+[2024.04.18-14.35.01:109][ 98]LogFileHelpers: Auto-saving content packages took 0.151
+[2024.04.18-14.35.13:523][657]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Colors.Foreground'.'
+[2024.04.18-14.35.15:193][733]LogSlate: Window 'Reference Viewer' being destroyed
+[2024.04.18-14.35.15:219][733]LogSlate: Window 'Reference Viewer' being destroyed
+[2024.04.18-14.35.27:170][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.18-14.35.27:175][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-14.35.27:242][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.18-14.35.27:293][290]LogSavePackage: Moving output files for package: /Game/BluePrints/Maps/House
+[2024.04.18-14.35.27:293][290]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/House0D77F51F4712261FAFD3C682549C3351.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Maps/House.umap'
+[2024.04.18-14.35.27:303][290]LogFileHelpers: Saving map 'House' took 0.103
+[2024.04.18-14.35.27:416][290]LogSavePackage: Moving output files for package: /Game/BluePrints/Widgets/Wb_HUD
+[2024.04.18-14.35.27:417][290]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Wb_HUD831DC9ED417774D745F7C1A3401BB300.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Widgets/Wb_HUD.uasset'
+[2024.04.18-14.35.27:436][290]LogSavePackage: Moving output files for package: /Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent
+[2024.04.18-14.35.27:437][290]LogSavePackage: Moving '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/BP_PurchasableDoor_Parent2E76EBDB44ED8029E86E6CAF2AD9C095.tmp' to '../../../../../../Users/alios/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent.uasset'
+[2024.04.18-14.35.27:445][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 2.38 sec)
+[2024.04.18-14.35.27:448][290]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.18-14.35.27:448][290]LogContentValidation: Display: Validating /Script/Engine.World /Game/BluePrints/Maps/House.House
+[2024.04.18-14.35.27:448][290]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/Widgets/Wb_HUD.Wb_HUD
+[2024.04.18-14.35.27:450][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Interactables/Door/BP_PurchasableDoor_Parent.BP_PurchasableDoor_Parent
+[2024.04.18-14.35.31:070][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-14.35.31:080][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-14.35.31:080][495]PIE: New page: PIE session: House (18 Apr 2024, 16:35:31)
+[2024.04.18-14.35.31:080][495]LogPlayLevel: Creating play world package: /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.35.31:099][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019308s)
+[2024.04.18-14.35.31:099][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BluePrints/Maps/House.House to /Game/BluePrints/Maps/UEDPIE_0_House.House (0.019344s)
+[2024.04.18-14.35.31:113][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.18-14.35.31:114][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-14.35.31:114][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-14.35.31:115][495]LogAIModule: Creating AISystem for world House
+[2024.04.18-14.35.31:115][495]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.04.18-14.35.31:115][495]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-14.35.31:115][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-14.35.31:115][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-14.35.31:115][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-14.35.31:115][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-14.35.31:115][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-14.35.31:117][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-14.35.31:137][495]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4 Stereo)
+[2024.04.18-14.35.31:138][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-14.35.31:138][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-14.35.31:138][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-14.35.31:138][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.04.18-14.35.31:138][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.04.18-14.35.31:140][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.04.18-14.35.31:140][495]LogInit: FAudioDevice initialized with ID 25.
+[2024.04.18-14.35.31:140][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.04.18-14.35.31:140][495]LogAudio: Display: Audio Device (ID: 25) registered with world 'House'.
+[2024.04.18-14.35.31:140][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.18-14.35.31:142][495]LogLoad: Game class is 'GM_GoblinMode_C'
+[2024.04.18-14.35.31:145][495]LogWorld: Bringing World /Game/BluePrints/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2024.04.18-15.35.31
+[2024.04.18-14.35.31:145][495]LogWorld: Bringing up level for play took: 0.002732
+[2024.04.18-14.35.31:147][495]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.04.18-14.35.31:152][495]PIE: Server logged in
+[2024.04.18-14.35.31:152][495]PIE: Play in editor total start time 0.072 seconds.
+[2024.04.18-14.35.31:153][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:160][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:176][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:180][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:260][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:264][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:290][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:294][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:299][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:303][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:326][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:330][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:340][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:344][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:375][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:379][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:386][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:390][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:397][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:401][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:409][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:413][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:422][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:425][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:434][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:437][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:447][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:452][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:457][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:461][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:469][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:473][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:481][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:485][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:493][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:497][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:506][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:509][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:517][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:521][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:528][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:532][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:541][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.31:545][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemySpawnerREF". Node:  Get Universal Enemy Level Graph:  EventGraph Function:  Execute Ubergraph Wb HUD Blueprint:  Wb_HUD
+[2024.04.18-14.35.31:552][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_PlayerREF". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Spawner Blueprint:  BP_EnemySpawner
+[2024.04.18-14.35.35:933][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.35.35:933][843]LogWorld: BeginTearingDown for /Game/BluePrints/Maps/UEDPIE_0_House
+[2024.04.18-14.35.35:933][843]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.35:934][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.35:937][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-14.35.35:942][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.35:956][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-14.35.35:956][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.18-14.35.35:957][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.18-14.35.35:958][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.18-14.35.35:961][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-14.35.35:965][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.18-14.35.36:084][844]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.04.18-14.35.38:634][954]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.35.38:659][954]LogSlate: Window 'Message Log' being destroyed
+[2024.04.18-14.35.41:101][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.18-14.35.41:104][ 90]LogStall: Shutdown...
+[2024.04.18-14.35.41:110][ 90]LogStall: Shutdown complete.
+[2024.04.18-14.35.41:163][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.18-14.35.41:163][ 90]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:163][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:235][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.18-14.35.41:235][ 90]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:235][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:288][ 90]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:288][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:298][ 90]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:298][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:386][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.18-14.35.41:386][ 90]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:386][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:458][ 90]LogSlate: Window 'GoblinSighting - Unreal Editor' being destroyed
+[2024.04.18-14.35.41:535][ 91]Cmd: QUIT_EDITOR
+[2024.04.18-14.35.41:536][ 91]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.18-14.35.41:538][ 91]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.18-14.35.41:538][ 91]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.18-14.35.41:538][ 91]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.18-14.35.41:540][ 91]LogWorld: UWorld::CleanupWorld for House, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.41:540][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-14.35.41:546][ 91]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.18-14.35.42:230][ 91]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.18-14.35.42:230][ 91]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.18-14.35.42:230][ 91]LogAudio: Display: Audio Device unregistered from world 'House'.
+[2024.04.18-14.35.42:230][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.18-14.35.42:230][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-14.35.42:232][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-14.35.42:236][ 91]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.18-14.35.42:237][ 91]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.18-14.35.42:242][ 91]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.18-14.35.42:242][ 91]LogExit: Preparing to exit.
+[2024.04.18-14.35.42:262][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.42:283][ 91]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-14.35.43:181][ 91]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:184][ 91]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:186][ 91]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:188][ 91]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:190][ 91]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:193][ 91]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:196][ 91]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:198][ 91]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:200][ 91]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:202][ 91]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:204][ 91]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:205][ 91]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:207][ 91]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:210][ 91]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:212][ 91]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:214][ 91]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-14.35.43:328][ 91]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.18-14.35.43:355][ 91]LogExit: Editor shut down
+[2024.04.18-14.35.43:357][ 91]LogExit: Transaction tracking system shut down
+[2024.04.18-14.35.43:484][ 91]LogExit: Object subsystem successfully closed.
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: ================================================
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: Total job queries 677, among them cache hits 582 (85.97%)
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: Tracking 95 distinct input hashes that result in 73 distinct outputs (76.84%)
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: RAM used: 2.17 MiB of 1.60 GiB budget. Usage: 0.13%
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.18-14.35.43:490][ 91]LogShaderCompilers: Display: ================================================
+[2024.04.18-14.35.43:520][ 91]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.18-14.35.43:536][ 91]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1056)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1054)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1052)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module Voice (1050)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1048)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1046)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module SceneOutliner (1044)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module AddContentDialog (1042)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1041)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module StatusBar (1038)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1036)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1034)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1026)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module PlanarCut (1024)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module FractureEngine (1022)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module CharacterAI (1020)
+[2024.04.18-14.35.43:580][ 91]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1018)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module BspMode (1016)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module GeometryMode (1014)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1012)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1010)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1008)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1006)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module IKRigEditor (1004)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1002)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1000)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module RigVMEditor (998)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (996)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module GooglePADEditor (994)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (992)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (990)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (988)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (986)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (984)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (982)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module WebMMedia (980)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (978)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (976)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorder (975)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (972)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (970)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (968)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (966)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (964)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (962)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (960)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module SmartSnapping (958)
+[2024.04.18-14.35.43:581][ 91]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.04.18-14.35.43:582][ 91]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.04.18-14.35.43:582][ 91]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.04.18-14.35.43:582][ 91]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.04.18-14.35.43:582][ 91]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.04.18-14.35.43:582][ 91]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.04.18-14.35.43:583][ 91]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.04.18-14.35.44:017][ 91]MemoryProfiler: Shutdown
+[2024.04.18-14.35.44:017][ 91]NetworkingProfiler: Shutdown
+[2024.04.18-14.35.44:017][ 91]LoadingProfiler: Shutdown
+[2024.04.18-14.35.44:017][ 91]TimingProfiler: Shutdown
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.04.18-14.35.44:017][ 91]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.04.18-14.35.44:018][ 91]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.04.18-14.35.44:028][ 91]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.04.18-14.35.44:029][ 91]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (746)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module LightMixer (744)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (742)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (740)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (738)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module CollectionManager (737)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (732)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (730)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (728)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (726)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (724)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (722)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (720)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (718)
+[2024.04.18-14.35.44:275][ 91]LogOpenImageDenoise: OIDN shutting down
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (716)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module LocalizableMessage (714)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (712)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (710)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (708)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (706)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (704)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module MeshLODToolset (702)
+[2024.04.18-14.35.44:275][ 91]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (700)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (698)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (696)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (694)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (692)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (691)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (689)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (686)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DataflowNodes (684)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (682)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DataflowEditor (680)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (678)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (676)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module FractureEditor (674)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ChaosNiagara (672)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (670)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AutomationUtils (668)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (666)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module BackChannel (664)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (662)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (660)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (658)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (656)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module UVEditorTools (654)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module UVEditor (652)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module PluginBrowser (650)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (648)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (646)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (644)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (642)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module EditorDebugTools (640)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module CurveEditorTools (638)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (636)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module CryptoKeys (634)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ChangelistReview (632)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (630)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module TakeSequencer (628)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module TakeMovieScene (626)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (624)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SequencerScripting (622)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module TemplateSequence (620)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (618)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (616)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (614)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeExport (612)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeMessages (610)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GLTFCore (608)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (606)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (604)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (602)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeEditor (600)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AlembicImporter (598)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AlembicLibrary (597)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (594)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InterchangeTests (592)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ControlRigSpline (590)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (588)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (586)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (584)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (582)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (580)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module UObjectPlugin (578)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (576)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (574)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module PluginUtils (572)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (570)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GitSourceControl (568)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DumpGPUServices (566)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (564)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (562)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module SynthesisEditor (560)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ResonanceAudio (558)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (556)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (554)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (552)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ModelingOperators (550)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (548)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ModelingComponents (546)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryFramework (545)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (542)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MeshModelingTools (540)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (538)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module InputDebugging (536)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GooglePAD (534)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (532)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCache (530)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (528)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (526)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (524)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (518)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (515)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (510)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AppleImageUtils (508)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module AndroidPermission (506)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (504)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (502)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (500)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MediaPlate (498)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositing (496)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module ImgMedia (494)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module VariantManager (492)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (490)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (488)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (486)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (484)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module Paper2DEditor (482)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (480)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (478)
+[2024.04.18-14.35.44:276][ 91]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (476)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module TraceUtilities (474)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module GameplayCameras (470)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (468)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (466)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module Niagara (464)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module NiagaraEditor (463)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module NiagaraCore (460)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module StructUtils (458)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (456)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module PBIK (454)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module FullBodyIK (452)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (450)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module TakeRecorder (449)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module ChaosCaching (446)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (444)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (442)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimation (440)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module DataValidation (438)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (436)
+[2024.04.18-14.35.44:277][ 91]LogModuleManager: Shutting down and abandoning module LevelEditor (435)
+[2024.04.18-14.35.44:280][ 91]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (434)
+[2024.04.18-14.35.44:280][ 91]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (432)
+[2024.04.18-14.35.44:280][ 91]LogModuleManager: Shutting down and abandoning module MainFrame (430)
+[2024.04.18-14.35.44:280][ 91]LogModuleManager: Shutting down and abandoning module HotReload (429)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowser (425)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowserData (424)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module TreeMap (421)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module ActorSequence (418)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module InterchangePipelines (416)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module InterchangeImport (414)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (412)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module InterchangeNodes (410)
+[2024.04.18-14.35.44:281][ 91]LogModuleManager: Shutting down and abandoning module UdpMessaging (408)
+[2024.04.18-14.35.44:382][ 91]LogModuleManager: Shutting down and abandoning module TcpMessaging (406)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (404)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module IKRig (402)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (400)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module ControlRig (398)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module Constraints (397)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module LevelSequence (395)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AnimationData (392)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (390)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (388)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AnimationSharing (386)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module Synthesis (384)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module SoundFields (382)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (380)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module RigVM (378)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (374)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (370)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundEditor (368)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module ToolMenus (367)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AudioWidgets (365)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (364)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (360)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundEngine (358)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module WaveTable (357)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (355)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (352)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (350)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (348)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (346)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (344)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (342)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module CableComponent (340)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (338)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (337)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (334)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module SignalProcessing (333)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (330)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module Paper2D (328)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.04.18-14.35.44:483][ 91]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.04.18-14.35.44:487][ 91]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.04.18-14.35.44:488][ 91]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.04.18-14.35.44:489][ 91]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.04.18-14.35.44:490][ 91]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.04.18-14.35.44:501][ 91]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.04.18-14.35.44:501][ 91]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.04.18-14.35.44:501][ 91]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.04.18-14.35.44:501][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.04.18-14.35.44:501][ 91]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.04.18-14.35.44:502][ 91]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.04.18-14.35.44:513][ 91]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.04.18-14.35.44:513][ 91]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.04.18-14.35.44:513][ 91]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.04.18-14.35.44:513][ 91]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.04.18-14.35.44:517][ 91]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module AISupportModule (122)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (120)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (118)
+[2024.04.18-14.35.44:518][ 91]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (116)
+[2024.04.18-14.35.44:519][ 91]LogModuleManager: Shutting down and abandoning module XMPP (111)
+[2024.04.18-14.35.44:519][ 91]LogModuleManager: Shutting down and abandoning module WebSockets (110)
+[2024.04.18-14.35.44:535][ 91]LogModuleManager: Shutting down and abandoning module HTTP (107)
+[2024.04.18-14.35.44:535][ 91]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.04.18-14.35.44:536][ 91]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBC54CDD-4DF2-5AF0-AE07-45BD88196396%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=89a1d3d2446d16cabf4b379dcefe57b0%7C5c4ce6a2b5fa4251ba8b89b267d75720%7C2946f457-2322-498d-af92-54e72acd2339&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.04.18-14.35.44:556][ 91]LogModuleManager: Shutting down and abandoning module SSL (106)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (102)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (100)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (98)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module ChaosCloth (92)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2024.04.18-14.35.44:557][ 91]LogModuleManager: Shutting down and abandoning module ACLPlugin (88)
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (86)
+[2024.04.18-14.35.44:558][ 91]RenderDocPlugin: plugin has been unloaded.
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module PixWinPlugin (84)
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (82)
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module ChunkDownloader (78)
+[2024.04.18-14.35.44:558][ 91]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2024.04.18-14.35.44:559][ 91]LogModuleManager: Shutting down and abandoning module Media (75)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module VariantManagerContent (70)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module DatasmithContent (68)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (62)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (60)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PlatformCrypto (58)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.04.18-14.35.44:561][ 91]LogXGEController: Cleaning working directory: C:/Users/alios/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.04.18-14.35.44:561][ 91]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.04.18-14.35.44:562][ 91]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.04.18-14.35.44:563][ 91]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.04.18-14.35.44:563][ 91]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.04.18-14.35.44:564][ 91]LogPakFile: Destroying PakPlatformFile
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.04.18-14.35.44:564][ 91]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.18-14.35.44:878][ 91]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.18-14.35.44:936][ 91]LogExit: Exiting.
+[2024.04.18-14.35.44:980][ 91]Log file closed, 04/18/24 15:35:44
