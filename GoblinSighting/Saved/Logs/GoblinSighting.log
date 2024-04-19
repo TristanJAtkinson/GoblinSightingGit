@@ -7421,3 +7421,82 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-11.22.32:115][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 963 ms (total: 3.55 sec)
 [2024.04.19-11.22.32:126][419]AssetCheck: New page: Asset Save: Overview1
 [2024.04.19-11.22.32:126][419]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.04.19-12.11.01:855][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.19-12.11.01:855][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.19-12.11.01:869][472]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.StaticMeshActor_67
+[2024.04.19-12.11.01:872][472]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.StaticMeshActor_67
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: ================================================
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Total job queries 677, among them cache hits 499 (73.71%)
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 136 distinct outputs (76.40%)
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: RAM used: 4.19 MiB of 819.20 MiB budget. Usage: 0.51%
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Shaders Compiled: 15
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Average time worker was idle: 32.57 s
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.06 s
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Job execution time: average 1.28 s, max 2.58 s
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Job life time (pending + execution): average 1.30 s, max 2.59
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Shader code size: average 40.642 KiB, min 29.957 KiB, max 58.781 KiB
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.85 s
+[2024.04.19-12.11.01:995][472]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Total thread time: 9.82 s
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Total thread preprocess time: 3.744 s
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Percentage time preprocessing: 38.13%
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Effective parallelization: 1.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.11 sec, max 1.44 sec, min 0.79 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.89 sec, max 1.29 sec, min 0.50 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.72 sec, max 0.99 sec, min 0.45 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.72 sec, max 0.99 sec, min 0.44 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.67% of total time (compiled    2 times, average 1.11 sec, max 1.44 sec, min 0.79 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.17% of total time (compiled    2 times, average 0.89 sec, max 1.29 sec, min 0.50 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.69% of total time (compiled    2 times, average 0.72 sec, max 0.99 sec, min 0.45 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.58% of total time (compiled    2 times, average 0.72 sec, max 0.99 sec, min 0.44 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.74% of total time (compiled    2 times, average 0.48 sec, max 0.76 sec, min 0.20 sec)
+[2024.04.19-12.11.01:996][472]LogShaderCompilers: Display: ================================================
+[2024.04.19-12.11.27:892][612]LogDerivedDataCache: C:/Users/mrmad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.206 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3641 files in 5149 folders with total size 355 MiB.
+[2024.04.19-12.11.45:019][477]LogPhysics: Warning: Scale for /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.StaticMeshActor_68.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=15.000 Z=0.000
+[2024.04.19-12.11.45:019][477]LogPhysics: Warning: Scale for /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1:PersistentLevel.StaticMeshActor_68.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=15.000 Z=0.000
+[2024.04.19-12.11.45:813][524]Cmd: TRANSACTION UNDO
+[2024.04.19-12.11.45:813][524]LogEditorTransaction: Undo Set Scale
+[2024.04.19-12.11.56:612][115]Cmd: TRANSACTION UNDO
+[2024.04.19-12.11.56:612][115]LogEditorTransaction: Undo Set Scale
+[2024.04.19-12.14.09:090][953]Cmd: TRANSACTION UNDO
+[2024.04.19-12.14.09:091][953]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.19-12.14.49:743][ 28]Cmd: TRANSACTION UNDO
+[2024.04.19-12.14.49:743][ 28]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.19-12.14.50:759][ 47]Cmd: TRANSACTION UNDO
+[2024.04.19-12.14.50:759][ 47]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.19-12.15.01:432][445]Cmd: TRANSACTION UNDO
+[2024.04.19-12.15.01:432][445]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.19-12.15.06:420][677]Cmd: TRANSACTION UNDO
+[2024.04.19-12.15.06:420][677]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.19-12.16.08:950][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-12.16.09:084][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.04.19-12.16.09:844][316]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.04.19-12.16.09:845][316]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview1B7A3315C4D3B3622C89B8C889E28F0A3.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.04.19-12.16.09:869][316]LogFileHelpers: Saving map 'Overview1' took 0.871
+[2024.04.19-12.16.09:906][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 956 ms (total: 4.51 sec)
+[2024.04.19-12.16.09:918][316]AssetCheck: New page: Asset Save: Overview1
+[2024.04.19-12.16.09:918][316]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
+[2024.04.19-12.33.42:956][444]Cmd: DELETE
+[2024.04.19-12.33.42:956][444]Cmd: ACTOR DELETE
+[2024.04.19-12.33.42:993][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-12.33.43:006][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.19-12.33.43:008][444]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.04.19-12.34.05:411][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.19-12.34.09:705][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.19-12.35.28:017][555]Cmd: TRANSACTION UNDO
+[2024.04.19-12.35.28:017][555]LogEditorTransaction: Undo Set Location
+[2024.04.19-12.35.37:795][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-12.35.37:891][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.19-12.35.38:626][910]LogSavePackage: Moving output files for package: /Game/ArtAssets/SpaceshipInterior/Maps/Overview1
+[2024.04.19-12.35.38:627][910]LogSavePackage: Moving '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Saved/Overview11561832C4CD848613352D9A09A059509.tmp' to '../../../../../../Users/mrmad/OneDrive/Documents/Unreal Projects/GoblinSightingGit/GoblinSighting/Content/ArtAssets/SpaceshipInterior/Maps/Overview1.umap'
+[2024.04.19-12.35.38:649][910]LogFileHelpers: Saving map 'Overview1' took 0.812
+[2024.04.19-12.35.38:660][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 865 ms (total: 5.37 sec)
+[2024.04.19-12.35.38:672][910]AssetCheck: New page: Asset Save: Overview1
+[2024.04.19-12.35.38:672][910]LogContentValidation: Display: Validating /Script/Engine.World /Game/ArtAssets/SpaceshipInterior/Maps/Overview1.Overview1
